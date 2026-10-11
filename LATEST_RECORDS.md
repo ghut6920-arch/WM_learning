@@ -1,5 +1,30 @@
 # 最新记录：AI 审核入口
 
+## 本次最新两份提交：2026-10-11 KV Cache 独立测试备课
+
+两份均为备课与审查材料，未开展正式教学。下列编号用于定位，不表示精确完成先后。
+
+### 独立测试 v1
+
+- [总入口](artifacts/preparation-tests/20261011-attention-kv-independent-v1/README.md)
+- [完整备课成品](artifacts/preparation-tests/20261011-attention-kv-independent-v1/备课成品.md)
+- [准备审查](artifacts/preparation-tests/20261011-attention-kv-independent-v1/06-review.md)
+- [核验记录](artifacts/preparation-tests/20261011-attention-kv-independent-v1/07-verification.md)
+- [代码说明](code/attention-kv-preptest-20261011/README.md)
+
+### 独立测试 b
+
+- [完整备课成品](artifacts/test-prep/kv-cache-20261011-independent-b/备课成品.md)
+- [机制分析](materials/test-prep/kv-cache-20261011-independent-b/mechanism-analysis.md)
+- [实际输入](questions/test-prep/kv-cache-20261011-independent-b/visible-input.md)
+- [问题](questions/test-prep/kv-cache-20261011-independent-b/questions.md)
+- [教师参考](questions/test-prep/kv-cache-20261011-independent-b/teacher-reference.md)
+- [审查](artifacts/test-prep/kv-cache-20261011-independent-b/review.md)
+- [核验结果](artifacts/test-prep/kv-cache-20261011-independent-b/verification.json)
+- [代码说明](code/kv-cache/test-prep-20261011-b/README.md)
+
+审核本次最新两份记录时，以本节为范围，先读两份完整备课成品，再按具体结论回查资料、题面、教师参考、代码和核验原件。以下保留历史提交入口。
+
 ## 最新提交：2026-10-11 Transformer Attention／KV Cache，r1
 
 性质：备课与审查材料；未开展正式教学，未形成学习者能力结论。
