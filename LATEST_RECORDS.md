@@ -1,5 +1,23 @@
 # 最新记录：AI 审核入口
 
+## 最新提交：2026-10-12 BC 闭环第一阶段备课
+
+性质：仅备课；未开展教学、学习者作答或训练／仿真／机器人实验。旧版与过程快照一并保留，审核最终内容时采用以下版本。
+
+- [备课收口记录](sessions/2026-10-12-bc-preparation-01/preparation-result.md)
+- [最终可执行入口](plan/bc-closed-loop-20261012/first-stage-plan-v2.md)
+- [学科研究](materials/bc-closed-loop-20261012/disciplinary-research-v2.md)
+- [认知设计](artifacts/bc-closed-loop-20261012/cognitive-design-v1.md)
+- [模型与反馈](questions/visible/bc-closed-loop-20261012/01-model-and-feedback-v3.md)
+- [机制与方法](questions/visible/bc-closed-loop-20261012/02-mechanisms-and-methods-v3.md)
+- [实验示例](questions/visible/bc-closed-loop-20261012/03-experiment-example-v2.md)
+- [案例与任务](questions/visible/bc-closed-loop-20261012/04-case-and-task-v2.md)
+- [教师参考](questions/teacher-reference/bc-closed-loop-20261012/reference-v3.md)
+- [最终审查](assessment/bc-closed-loop-20261012/review-v2.md)
+- [过程归档入口](experiments/preparation-20261012-bc-loop-01/README.md)
+
+审核最新记录时先读收口记录与最终可执行入口；检查协作过程、修订或读取边界时，再读过程归档和旧版。下面保留历次提交入口。
+
 ## 本次最新两份提交：2026-10-11 KV Cache 独立测试备课
 
 两份均为备课与审查材料，未开展正式教学。下列编号用于定位，不表示精确完成先后。
