@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T10:45:28.459507+00:00",
+  "role": "AG1",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\personal-learning-suite\\src\\agents\\AG0-coach.md",
+  "sha256": "0334e11006f58d3f96fe488fceb9deaa540e39f24aec6b55bfe703c4720a3b6c",
+  "bytes": 7791,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\0334e11006f58d3f96fe488fceb9deaa540e39f24aec6b55bfe703c4720a3b6c"
+}

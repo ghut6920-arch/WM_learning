@@ -1,0 +1,14 @@
+{
+  "command": [
+    "git",
+    "-c",
+    "safe.directory=E:/文献资料/学习系统架构设计/personal-learning-suite",
+    "-C",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite",
+    "rev-parse",
+    "HEAD"
+  ],
+  "stdout": "",
+  "stderr": "fatal: cannot change to 'E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite': Permission denied\n",
+  "exit_code": 128
+}

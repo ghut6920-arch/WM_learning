@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T10:42:23.967941+00:00",
+  "role": "AG0",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\framework-manifest.json",
+  "sha256": "281d469db368f490473b36aae2201f20aa01f4a928fa2367aa71faf763e11689",
+  "bytes": 24380,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\281d469db368f490473b36aae2201f20aa01f4a928fa2367aa71faf763e11689"
+}

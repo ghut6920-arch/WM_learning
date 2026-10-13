@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:15:12.500873+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\materials\\bc-normal-20261013-01\\01-loop-and-feedback-v1.md",
+  "sha256": "20809341d2daf2abe557ebb101c917b2ba27abeeb1aefe89354a3f9b38e3b407",
+  "bytes": 5489,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\20809341d2daf2abe557ebb101c917b2ba27abeeb1aefe89354a3f9b38e3b407"
+}

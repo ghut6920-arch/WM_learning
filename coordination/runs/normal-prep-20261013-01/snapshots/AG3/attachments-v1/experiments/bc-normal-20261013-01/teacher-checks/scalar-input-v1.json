@@ -1,0 +1,11 @@
+{
+  "origin": "generated_material",
+  "revision": 1,
+  "model_scope": "Dimensionless scalar model x_next=x+u, u=-K*x+b; no noise, delay or saturation",
+  "cases": [
+    {"id": "demo-A", "K": 0.5, "b": 0.02, "e0": 0.0, "steps": 6},
+    {"id": "demo-B", "K": -0.1, "b": 0.02, "e0": 0.0, "steps": 6},
+    {"id": "task-A", "K": 0.5, "b": 0.005, "e0": 0.1, "steps": 6, "tolerance": 0.03},
+    {"id": "task-B", "K": -0.1, "b": 0.005, "e0": 0.1, "steps": 6, "tolerance": 0.03}
+  ]
+}

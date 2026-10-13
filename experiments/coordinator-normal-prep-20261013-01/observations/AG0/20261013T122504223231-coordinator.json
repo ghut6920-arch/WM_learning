@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-13T12:25:04.223231+00:00",
+  "role": "AG0",
+  "kind": "coordinator",
+  "command": [
+    "E:\\anaconda\\python.exe",
+    "-B",
+    "-X",
+    "utf8",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "--workspace",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+    "--role",
+    "AG0",
+    "execute",
+    "--action",
+    "adopt",
+    "--request-file",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\final-adopt-v1-submitted.json"
+  ],
+  "stdout": "{\n  \"status\": \"committed\",\n  \"state_revision\": 50,\n  \"operation_id\": \"normal-prep-final-adopt-v1\",\n  \"bundle_id\": \"normal-prep-final-adoption-v1\",\n  \"adoption\": \"adopted\",\n  \"members\": [\n    {\n      \"ref\": {\n        \"id\": \"EMB-BC-NORMAL-DESIGN-20261013-01\",\n        \"revision\": 1\n      },\n      \"scope\": [\n        \"BC-first-stage\"\n      ],\n      \"intended_use\": \"teaching\",\n      \"receipt_ids\": [\n        \"normal-prep-ag1-design-owner-v1\",\n        \"normal-prep-ag3-design-receipt-v1\"\n      ]\n    },\n    {\n      \"ref\": {\n        \"id\": \"EMB-BC-NORMAL-MATERIAL-20261013-01\",\n        \"revision\": 1\n      },\n      \"scope\": [\n        \"BC-first-stage\"\n      ],\n      \"intended_use\": \"teaching\",\n      \"receipt_ids\": [\n        \"normal-prep-ag2-material-owner-v1\",\n        \"normal-prep-ag3-material-receipt-v1\"\n      ]\n    }\n  ],\n  \"affected_downstream\": []\n}\n",
+  "stderr": "",
+  "exit_code": 0
+}

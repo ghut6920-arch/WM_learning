@@ -1,0 +1,57 @@
+{
+  "type": "SourceFragment",
+  "id": "EMB-BC-NORMAL-SOURCE-FRAGMENTS-20261013-01",
+  "revision": 1,
+  "owner": "AG2",
+  "schema_version": "pl-contracts/0.1.0",
+  "basis_refs": [],
+  "purpose": "BC-first-stage 学科研究依据；来源人工文件视图，不声明通过完整嵌套 schema 校验",
+  "access_date": "2026-10-13",
+  "fragments": [
+    {
+      "id": "BC-NORMAL-R1",
+      "source_ref": {
+        "source_id": "ROSS-GORDON-BAGNELL-AISTATS-2011",
+        "declared_revision": "PMLR 15:627–635 (2011) published PDF",
+        "locator": "https://proceedings.mlr.press/v15/ross11a/ross11a.pdf",
+        "identity_kind": "original_research_paper"
+      },
+      "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+      "read_scope": {
+        "text": {"status": "known", "value": "实际返回并读清PDF解析行0–427：引言、§2定义、§2.1监督方法、§2.2恢复代价、§2.3背景、§3算法与主要无限样本条件；后半证明和实验未精读"},
+        "formula": {"status": "known", "value": "§2式(1)/(2) d_pi 与 d_expert 的区别，Theorem2.1/2.2及Algorithm3.1的解析文字；数学符号以语境和自推核对。完整有限样本证明未核"},
+        "figure": {"status": "not_required", "reason": "本研究不引用原论文实验图；PDF截图请求仅返回引用标记，图像未可见，不能宣称已视觉核验"}
+      },
+      "claims": ["专家访问分布与学习策略访问分布的区分", "特定有界代价和0–1损失上界条件下的最坏情况T平方误差界", "在访问状态上取得专家动作并聚合数据的DAgger机制"],
+      "verification": {"content": {"status": "supported", "checked_revision": 1, "scope": "上述三项的来源陈述与限定", "conditions": "不将0–1错误概率替换为连续动作MSE；不宣称所有机械臂必然按T平方失败；DAgger需要可询问的专家和可执行采样条件", "unchecked_scope": "完整证明、收敛实现、当前机器人上的效果", "required_modalities": ["text", "formula"], "reviewer": "AG2", "method": "source_comparison", "anchor_refs": ["§2 pp628–629", "§3 p630 Algorithm3.1"]}},
+      "unread_parts": {"status": "known", "value": "§4完整证明、§5实验及引用的2010论文未精读；截图图像不可获得；远端PDF字节哈希不可获得"}
+    },
+    {
+      "id": "BC-NORMAL-R2",
+      "source_ref": {"source_id": "MANDLEKAR-ETAL-CORL-2021", "declared_revision": "PMLR 164 (published 2022), CoRL 2021 paper PDF", "locator": "https://proceedings.mlr.press/v164/mandlekar22a/mandlekar22a.pdf", "identity_kind": "original_research_paper"},
+      "title": "What Matters in Learning from Offline Human Demonstrations for Robot Manipulation",
+      "read_scope": {
+        "text": {"status": "known", "value": "实际返回/读清§2 C1–C5及相关上下文（解析行46–129）、§3.2/3.3与§4.1（162–217）、§4.2–4.6（236–321），另返回表1/3及caption文字；论文涵盖5个仿真和3个真实任务"},
+        "formula": {"status": "not_required", "reason": "本研究只用经验研究的条件和现象，不据其推导公式或原始统计计算"},
+        "figure": {"status": "unknown", "reason": "截图请求返回引用标记，未获得模型可见图像；不引用图柱高度或精确性能数值，表格抽取数字也不作为本次教学数据"}
+      },
+      "claims": ["演示历史、观测选择、数据覆盖和代理损失选择都可能影响机器人闭环结果", "作者试验中验证损失选择与闭环成功率选择并不等同"],
+      "verification": {"content": {"status": "supported", "checked_revision": 1, "scope": "作者经验现象和研究条件", "conditions": "历史模型效果仅属已研究任务/数据条件，不推出普遍优越；作者的选最佳在线checkpoint报告口径不当成新项目可无代价采用的协议", "unchecked_scope": "未读补充材料Appendix B/G/I、软件实现及复现实验；不复用其精确效果量", "required_modalities": ["text"], "reviewer": "AG2", "method": "source_comparison", "anchor_refs": ["§2 C1/C3/C4/C5", "§3.3", "§4.1/4.3/4.4/4.5/4.6"]}},
+      "unread_parts": {"status": "known", "value": "完整论文与附录未通读，原图未读清，当前版本软件与实验未运行，远端PDF字节哈希不可获得"}
+    },
+    {
+      "id": "BC-NORMAL-R3",
+      "source_ref": {"source_id": "DEHAAN-JAYARAMAN-LEVINE-NEURIPS-2019", "declared_revision": "NeurIPS 2019 published PDF", "locator": "https://proceedings.neurips.cc/paper_files/paper/2019/file/947018640bf36a2bb609d3557a285329-Paper.pdf", "identity_kind": "original_research_paper"},
+      "title": "Causal Confusion in Imitation Learning",
+      "read_scope": {
+        "text": {"status": "known", "value": "实际返回/读清引言及§2/§3开头（解析行12–119）、§3控制任务过去动作输入对照与驾车背景（152–211）"},
+        "formula": {"status": "not_required", "reason": "本次使用相关性捷径与干预识别的有限解释，不采用论文因果搜索算法和数学保证"},
+        "figure": {"status": "unknown", "reason": "Figure1/2/3仅caption及正文可读，截图未获可见图像；不将原图作为教学成品"}
+      },
+      "claims": ["模仿模型可能学到专家动作的相关结果或代理线索，专家记录上的预测好仍可能闭环失败", "加入更多观测/历史不是无条件改进，需检查其信息用途和策略依赖"],
+      "verification": {"content": {"status": "supported", "checked_revision": 1, "scope": "相关性捷径机制与作者对照的条件", "conditions": "不把所有闭环失败诊断为因果混淆；本研究自拟机械臂例子是合法教学假设，不冒充论文机器人实测", "unchecked_scope": "完整因果图搜索与干预方法、附录、真实机械臂因果结论", "required_modalities": ["text"], "reviewer": "AG2", "method": "source_comparison", "anchor_refs": ["§1 dashboard illustration", "§3 previous-action controlled testbeds"]}},
+      "unread_parts": {"status": "known", "value": "§4/5完整算法、附录与所有原图未读清；远端PDF字节哈希不可获得"}
+    }
+  ],
+  "observational_boundary": "本文件仅传递正常来源与学科读取范围；执行层原始工具结果另存隔离过程目录，不作为教学输入。外部研究不证明当前学习者理解或当前机器人故障原因。"
+}

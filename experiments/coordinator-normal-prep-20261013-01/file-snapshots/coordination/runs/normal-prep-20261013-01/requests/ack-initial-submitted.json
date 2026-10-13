@@ -1,0 +1,6 @@
+{
+  "operation_id": "normal-prep-ack-initial",
+  "consumer_id": "normal-prep-20261013-01-ag0",
+  "through_sequence": 19,
+  "expected_state_revision": 19
+}

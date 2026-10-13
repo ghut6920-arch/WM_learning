@@ -1,0 +1,14 @@
+{
+  "command": [
+    "git",
+    "-c",
+    "safe.directory=E:/文献资料/学习系统架构设计/learning/embodied-intelligence",
+    "show",
+    "HEAD:state/control.md"
+  ],
+  "exit_code": 0,
+  "sha256": "c3cfdb4944dda65787efa495c409d0b7ee9cc1e6a2488bfab929f4a5246e1a18",
+  "matches_initial_control_gate": false,
+  "provenance": "initial git status showed control clean; blob independently matches initial control source SHA256",
+  "meaning": "archive exact original bytes; does not modify live control"
+}

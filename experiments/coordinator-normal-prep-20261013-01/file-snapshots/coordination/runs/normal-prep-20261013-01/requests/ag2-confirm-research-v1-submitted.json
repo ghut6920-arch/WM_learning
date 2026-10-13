@@ -1,0 +1,15 @@
+{
+  "operation_id": "normal-prep-confirm-ag2-research-v1",
+  "ref": {
+    "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+    "revision": 1
+  },
+  "receipt_id": "normal-prep-ag2-research-owner-v1",
+  "scope": [
+    "BC-first-stage"
+  ],
+  "intended_use": "teaching",
+  "outcome": "supported",
+  "rationale": "已按原用途实际读取三篇原始研究相关文字/公式，核专家分布与策略访问分布、DAgger专家标签聚合机制及保证条件、机器人代理指标与闭环结果经验边界、相关性捷径。按明确模型独立推导标量反馈对照和平方损失条件均值，检查变化与保持条件，并交出竞争解释、可检验预测/反证及有条件改进。附件版本哈希已固定并读回。支持有限第一阶段认知设计，不支持特定机器人故障诊断、全局稳定保证或用户能力；论文完整证明/附录、原图视觉内容、远端PDF字节哈希和现实/软件实验未核或不可获得。数值程序未执行；实际教学成品仍待AG1认知转换后落实。",
+  "expected_state_revision": 24
+}

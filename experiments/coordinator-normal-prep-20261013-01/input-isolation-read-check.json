@@ -1,0 +1,6 @@
+{
+  "check_scope": "saved read observations only; no claim about unavailable host traces",
+  "forbidden_audit_read_paths": [],
+  "read_observation_count": 181,
+  "meaning": "factual source isolation check, no teaching-quality diagnosis"
+}

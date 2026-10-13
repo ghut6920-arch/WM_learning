@@ -1,0 +1,17 @@
+[
+  {
+    "path": "E:\\文献资料\\学习系统架构设计\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "sha256": "d57c70c96f2d78cd837f1322fe86082686c72ad2120c723722ce1267990f0afa",
+    "version_scope": "actual CLI implementation fingerprint; no framework edit"
+  },
+  {
+    "path": "E:\\文献资料\\学习系统架构设计\\personal-learning-suite\\src\\coordinator\\complete.py",
+    "sha256": "a766396df2aace875347a3dfcbe0488dd80e2738a518b7591d2e3c6630788925",
+    "version_scope": "actual CLI implementation fingerprint; no framework edit"
+  },
+  {
+    "path": "E:\\文献资料\\学习系统架构设计\\personal-learning-suite\\src\\coordinator\\workspace.py",
+    "sha256": "46f3da47056b50666f6bd9d2f8f33547dea37c66f46c6f8ee10f89a1c55f6b05",
+    "version_scope": "actual CLI implementation fingerprint; no framework edit"
+  }
+]

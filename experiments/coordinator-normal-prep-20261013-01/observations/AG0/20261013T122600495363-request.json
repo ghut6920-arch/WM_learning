@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-13T12:26:00.496360+00:00",
+  "role": "AG0",
+  "kind": "request",
+  "action": "ack_events",
+  "source_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-final.json",
+  "submitted_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-final-submitted.json",
+  "payload": {
+    "operation_id": "normal-prep-ag0-ack-final",
+    "consumer_id": "normal-prep-20261013-01-ag0",
+    "through_sequence": 39,
+    "expected_state_revision": 50
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": [
+    {
+      "variant": "unchanged_tail",
+      "sha256": "d7ba0aa3bf5c84b0a6888bbcccb48da66ddb7c3dbdc623daf31ff99b44692d87",
+      "matches": true
+    },
+    {
+      "variant": "BOM_tail",
+      "sha256": "25fca3657ca3e30f90b12f29ea7961a58d0cb2e514744acfc27e06d43b67c7dd",
+      "matches": false
+    }
+  ],
+  "provenance": "extraction of preserved original tail from the actual prep prepend operation, compared to observed initial control source hash",
+  "git_blob_is_initial_working_tree_bytes": false
+}

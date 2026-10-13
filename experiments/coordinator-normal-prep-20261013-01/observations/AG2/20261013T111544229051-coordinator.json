@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-13T11:15:44.229051+00:00",
+  "role": "AG2",
+  "kind": "coordinator",
+  "command": [
+    "E:\\anaconda\\python.exe",
+    "-B",
+    "-X",
+    "utf8",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "--workspace",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+    "--role",
+    "AG2",
+    "execute",
+    "--action",
+    "start",
+    "--request-file",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-material-v1-submitted.json"
+  ],
+  "stdout": "{\n  \"status\": \"committed\",\n  \"state_revision\": 36,\n  \"operation_id\": \"normal-prep-start-ag2-material-v1\",\n  \"task_id\": \"normal-prep-ag2-material-v1\",\n  \"snapshot\": [\n    {\n      \"adoption_required\": true,\n      \"id\": \"EMB-BC-NORMAL-RESEARCH-20261013-01\",\n      \"intended_use\": \"teaching\",\n      \"revision\": 1,\n      \"scope\": [\n        \"BC-first-stage\"\n      ],\n      \"sha256\": \"3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe\"\n    },\n    {\n      \"id\": \"EMB-BC-NORMAL-DESIGN-20261013-01\",\n      \"revision\": 1,\n      \"sha256\": \"9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5\",\n      \"scope\": [\n        \"BC-first-stage\"\n      ],\n      \"intended_use\": \"teaching\",\n      \"adoption_required\": true\n    }\n  ],\n  \"phase\": \"running\",\n  \"provisional_inputs\": [\n    {\n      \"ref\": {\n        \"id\": \"EMB-BC-NORMAL-DESIGN-20261013-01\",\n        \"revision\": 1\n      },\n      \"conditions\": \"Consume the exact AG1 design candidate solely to produce the teaching materials. This is not formal adoption; final use requires applicable AG1 confirmation, AG2 material confirmation, AG3 reviews and AG0 bundle adoption of compatible exact versions.\"\n    }\n  ]\n}\n",
+  "stderr": "",
+  "exit_code": 0
+}

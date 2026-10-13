@@ -1,0 +1,15 @@
+{
+  "operation_id": "normal-prep-register-ag3-material-review-v1",
+  "id": "normal-prep-ag3-material-review-v1",
+  "assignee": "AG3",
+  "task_kind": "review",
+  "scope": [
+    "BC-first-stage"
+  ],
+  "intended_use": "teaching",
+  "target_ref": {
+    "id": "EMB-BC-NORMAL-MATERIAL-20261013-01",
+    "revision": 1
+  },
+  "expected_state_revision": 41
+}

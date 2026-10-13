@@ -1,0 +1,22 @@
+{
+  "recorded_at": "2026-10-13T10:57:02.165046+00:00",
+  "role": "AG0",
+  "kind": "coordinator",
+  "command": [
+    "E:\\anaconda\\python.exe",
+    "-B",
+    "-X",
+    "utf8",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "--workspace",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+    "--role",
+    "AG0",
+    "receipt",
+    "--receipt-id",
+    "normal-prep-ag2-research-owner-v1"
+  ],
+  "stdout": "{\n  \"status\": \"ok\",\n  \"receipt\": {\n    \"authority_mode\": \"local_operator_attested\",\n    \"base_receipt_id\": null,\n    \"basis_signature\": \"4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945\",\n    \"by\": \"AG2\",\n    \"directly_checked_scope\": [\n      \"BC-first-stage\"\n    ],\n    \"id\": \"normal-prep-ag2-research-owner-v1\",\n    \"inherited_scope\": [],\n    \"intended_use\": \"teaching\",\n    \"kind\": \"professional_confirmation\",\n    \"outcome\": \"supported\",\n    \"rationale\": \"已按原用途实际读取三篇原始研究相关文字/公式，核专家分布与策略访问分布、DAgger专家标签聚合机制及保证条件、机器人代理指标与闭环结果经验边界、相关性捷径。按明确模型独立推导标量反馈对照和平方损失条件均值，检查变化与保持条件，并交出竞争解释、可检验预测/反证及有条件改进。附件版本哈希已固定并读回。支持有限第一阶段认知设计，不支持特定机器人故障诊断、全局稳定保证或用户能力；论文完整证明/附录、原图视觉内容、远端PDF字节哈希和现实/软件实验未核或不可获得。数值程序未执行；实际教学成品仍待AG1认知转换后落实。\",\n    \"scope\": [\n      \"BC-first-stage\"\n    ],\n    \"supersedes_receipt_ids\": [],\n    \"target_ref\": {\n      \"id\": \"EMB-BC-NORMAL-RESEARCH-20261013-01\",\n      \"revision\": 1\n    },\n    \"target_sha256\": \"3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe\"\n  },\n  \"currently_applicable_to_exact_target\": true,\n  \"input_issues\": [],\n  \"meaning\": \"exact_target_scope_receipt_not_newer_version_or_adoption\"\n}\n",
+  "stderr": "",
+  "exit_code": 0
+}

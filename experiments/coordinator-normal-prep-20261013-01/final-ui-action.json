@@ -1,0 +1,6 @@
+{
+  "tool": "open_in_codex",
+  "target": {"type":"file","path":"E:/文献资料/学习系统架构设计/learning/embodied-intelligence/artifacts/bc-normal-20261013-01/README.md"},
+  "observed_result": {"status":"queued","threadId":"01a134d6-ca94-7333-8239-adb0edb86e92"},
+  "meaning": "actual UI opening request was queued; does not claim visible file opening"
+}

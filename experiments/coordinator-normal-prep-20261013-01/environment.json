@@ -1,0 +1,38 @@
+{
+  "recorded_at": "2026-10-13T10:46:55.672248+00:00",
+  "timezone": "Asia/Shanghai",
+  "date": "2026-10-13",
+  "cwd": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+  "shell": "powershell",
+  "python_executable": "E:/anaconda/python.exe",
+  "repository_head": "4487e2b978849f62c4b45c2faca7ac0a9761f971",
+  "baseline_git_changes": [
+    " M AGENTS.md",
+    " M FRAMEWORK.md",
+    " M MODEL_ENTRY.md",
+    " M framework-manifest.json",
+    "?? .coordinator/",
+    "?? COORDINATION.md",
+    "?? artifacts/coordinator-integration/",
+    "?? coordination/",
+    "?? experiments/coordinator-replay-20261013-bc-loop-01/",
+    "?? experiments/execution-trace-20261013-bc-loop-01/"
+  ],
+  "raw_request_sha256": "9faaccf5378ea4bfae54a0a5b8070716576cb86ee0a25d510f3e04dfe0509920",
+  "suite_git_head": {
+    "status": "unknown",
+    "reason": "git -C was denied for the external suite directory; exact actually-used file versions are captured by SHA256"
+  },
+  "versions": {
+    "shared_contract": "pl-contracts/0.1.0",
+    "coordinator": "tac-complete/0.1.0",
+    "host": "manual_files with actual coordinator CLI",
+    "agent_model_snapshot": "unavailable; model overrides were not requested or set"
+  },
+  "early_observation_limits": [
+    "No raw host export of all tool invocations is available.",
+    "Initial directory-entry reads predate observer creation; returned observations and archived bytes are retained where available.",
+    "Initial control file was clean in git status; HEAD retrieval retained separately; output transcoding may differ from original bytes."
+  ],
+  "excluded_sources": "No old topical audit bodies were loaded; their link text in current FRAMEWORK does not constitute using their conclusions."
+}

@@ -1,5 +1,20 @@
 # 最新记录：AI 审核入口
 
+## 最新提交：2026-10-13 完成机械臂模仿学习备课
+
+机械臂 BC 闭环第一阶段正常备课。仅准备，未授课、未取得学习者作答或训练／机器人实验结果。上传包括专业成品、配套代码与教师核验、正常审查、协调交接和独立过程归档。
+
+- [成果总入口](artifacts/bc-normal-20261013-01/README.md)
+- [备课断点](sessions/2026-10-13-normal-prep-01/checkpoint.md)
+- [材料与用途清单](artifacts/bc-normal-20261013-01/material/material-use-v1.md)
+- [研究依据](artifacts/bc-normal-20261013-01/disciplinary/research-v1.md)
+- [认知设计](artifacts/bc-normal-20261013-01/design/design-v1.md)
+- [正常审查](assessment/bc-normal-20261013-01/review-v1.md)
+- [独立过程档案](experiments/coordinator-normal-prep-20261013-01/README.md)
+- [版本对应](experiments/coordinator-normal-prep-20261013-01/VERSION_MAP.md)
+
+审核先从成果总入口进入实际讲解、A/B/C题面和教师参考；核协作事实再读取独立过程档案。档案中的冻结数据库和程序响应只证明当时状态，不作为实时采用指针。原协调程序依赖上级 personal-learning-suite，本仓库没有该套件；不能声称仅克隆本仓库即可查询实时状态。以下保留历史入口。
+
 ## 最新提交：2026-10-12 BC 闭环第一阶段备课
 
 性质：仅备课；未开展教学、学习者作答或训练／仿真／机器人实验。旧版与过程快照一并保留，审核最终内容时采用以下版本。

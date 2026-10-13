@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:11:59.194811+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\code\\coordination\\normal-prep-20261013-01\\observe.py",
+  "sha256": "d493aca27c6518b631b0129d7966e2cc25a29b4582a70f809b1948331ea3975c",
+  "bytes": 3322,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\d493aca27c6518b631b0129d7966e2cc25a29b4582a70f809b1948331ea3975c"
+}

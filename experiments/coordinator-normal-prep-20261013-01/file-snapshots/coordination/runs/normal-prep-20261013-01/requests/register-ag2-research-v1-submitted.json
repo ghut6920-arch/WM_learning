@@ -1,0 +1,18 @@
+{
+  "operation_id": "normal-prep-register-ag2-research-v1",
+  "id": "normal-prep-ag2-research-v1",
+  "assignee": "AG2",
+  "task_kind": "production",
+  "scope": [
+    "BC-first-stage"
+  ],
+  "intended_use": "teaching",
+  "inputs": [],
+  "output": {
+    "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+    "type": "SourceFragment",
+    "requires_ag3_review": false,
+    "validation_profile": "utf8"
+  },
+  "expected_state_revision": 20
+}

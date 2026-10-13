@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:14:55.009974+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\artifacts\\bc-normal-20261013-01\\disciplinary\\mechanism-notes-v1.md",
+  "sha256": "7046cf8d5a5f7d5c3a2b71230e058ebac44c83e8b06d324d65abb3653300d91d",
+  "bytes": 4810,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\7046cf8d5a5f7d5c3a2b71230e058ebac44c83e8b06d324d65abb3653300d91d"
+}

@@ -1,0 +1,93 @@
+{
+  "origin": "generated_material",
+  "executor": "AG2_teacher",
+  "revision": 1,
+  "python": "3.12.3",
+  "model_scope": "Dimensionless scalar model x_next=x+u, u=-K*x+b; no noise, delay or saturation",
+  "input_path": "experiments/bc-normal-20261013-01/teacher-checks/scalar-input-v1.json",
+  "input_sha256": "c4b5804db5f93447fa90d5c89f62e6667d987c3f7bafb09c0c72ab42acb1d31d",
+  "code_path": "E:/文献资料/学习系统架构设计/learning/embodied-intelligence/code/bc-normal-20261013-01/scalar_check_v1.py",
+  "code_sha256": "e19334decf4a55466e24d97883e603c7c447d624eb4dfbaa03ce8fcb2e6f2443",
+  "cases": [
+    {
+      "id": "demo-A",
+      "K": 0.5,
+      "b": 0.02,
+      "e0": 0.0,
+      "steps": 6,
+      "rho": 0.5,
+      "nominal_mse": 0.0004,
+      "errors_t0_to_T": [
+        0.0,
+        0.02,
+        0.03,
+        0.035,
+        0.037500000000000006,
+        0.03875000000000001,
+        0.03937500000000001
+      ],
+      "terminal_within_tolerance": null
+    },
+    {
+      "id": "demo-B",
+      "K": -0.1,
+      "b": 0.02,
+      "e0": 0.0,
+      "steps": 6,
+      "rho": 1.1,
+      "nominal_mse": 0.0004,
+      "errors_t0_to_T": [
+        0.0,
+        0.02,
+        0.042,
+        0.06620000000000001,
+        0.09282000000000001,
+        0.12210200000000003,
+        0.15431220000000004
+      ],
+      "terminal_within_tolerance": null
+    },
+    {
+      "id": "task-A",
+      "K": 0.5,
+      "b": 0.005,
+      "e0": 0.1,
+      "steps": 6,
+      "tolerance": 0.03,
+      "rho": 0.5,
+      "nominal_mse": 2.5e-05,
+      "errors_t0_to_T": [
+        0.1,
+        0.055,
+        0.0325,
+        0.02125,
+        0.015625,
+        0.012812500000000001,
+        0.01140625
+      ],
+      "terminal_within_tolerance": true
+    },
+    {
+      "id": "task-B",
+      "K": -0.1,
+      "b": 0.005,
+      "e0": 0.1,
+      "steps": 6,
+      "tolerance": 0.03,
+      "rho": 1.1,
+      "nominal_mse": 2.5e-05,
+      "errors_t0_to_T": [
+        0.1,
+        0.11500000000000002,
+        0.13150000000000003,
+        0.14965000000000006,
+        0.16961500000000007,
+        0.1915765000000001,
+        0.21573415000000012
+      ],
+      "terminal_within_tolerance": false
+    }
+  ],
+  "verification": "recurrence equals closed form on requested finite cases and stated formula boundaries",
+  "limitations": "no empirical data, no robot execution, no general proof, no learner run"
+}

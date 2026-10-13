@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T10:59:58.962981+00:00",
+  "role": "AG1",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG1-research-v1.md",
+  "sha256": "3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe",
+  "bytes": 12675,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe"
+}

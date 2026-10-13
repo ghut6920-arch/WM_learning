@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:18:12.900051+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\assessment\\bc-normal-20261013-01\\read-boundary-v1.json",
+  "sha256": "b77ab5ffb182c50a8a91e1ccf3acfd65309b230cf57277a36a8ab510ff7934d7",
+  "bytes": 8676,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\b77ab5ffb182c50a8a91e1ccf3acfd65309b230cf57277a36a8ab510ff7934d7"
+}

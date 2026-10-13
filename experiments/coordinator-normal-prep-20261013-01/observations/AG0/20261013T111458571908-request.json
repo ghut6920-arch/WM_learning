@@ -1,0 +1,45 @@
+{
+  "recorded_at": "2026-10-13T11:14:58.571908+00:00",
+  "role": "AG0",
+  "kind": "request",
+  "action": "register",
+  "source_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-material-v1.json",
+  "submitted_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-material-v1-submitted.json",
+  "payload": {
+    "operation_id": "normal-prep-register-ag2-material-v1",
+    "id": "normal-prep-ag2-material-v1",
+    "assignee": "AG2",
+    "task_kind": "production",
+    "scope": [
+      "BC-first-stage"
+    ],
+    "intended_use": "teaching",
+    "inputs": [
+      {
+        "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "intended_use": "teaching"
+      },
+      {
+        "id": "EMB-BC-NORMAL-DESIGN-20261013-01",
+        "revision": 1,
+        "policy": "exact",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "intended_use": "teaching",
+        "provisional_conditions": "Consume the exact AG1 design candidate solely to produce the teaching materials. This is not formal adoption; final use requires applicable AG1 confirmation, AG2 material confirmation, AG3 reviews and AG0 bundle adoption of compatible exact versions."
+      }
+    ],
+    "output": {
+      "id": "EMB-BC-NORMAL-MATERIAL-20261013-01",
+      "type": "MaterialUse",
+      "requires_ag3_review": true,
+      "validation_profile": "utf8"
+    },
+    "expected_state_revision": 34
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "recorded_at": "2026-10-13T12:11:01.280401+00:00",
+  "role": "AG0",
+  "kind": "request",
+  "action": "register",
+  "source_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-material-review-v1.json",
+  "submitted_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-material-review-v1-submitted.json",
+  "payload": {
+    "operation_id": "normal-prep-register-ag3-material-review-v1",
+    "id": "normal-prep-ag3-material-review-v1",
+    "assignee": "AG3",
+    "task_kind": "review",
+    "scope": [
+      "BC-first-stage"
+    ],
+    "intended_use": "teaching",
+    "target_ref": {
+      "id": "EMB-BC-NORMAL-MATERIAL-20261013-01",
+      "revision": 1
+    },
+    "expected_state_revision": 41
+  }
+}

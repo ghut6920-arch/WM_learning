@@ -1,0 +1,3730 @@
+{
+  "status": "ok",
+  "state_revision": 19,
+  "control_revision": 11,
+  "version": "tac-workspace/0.1.0",
+  "authority_mode": "local_operator_attested",
+  "tasks": [
+    {
+      "acceptance": {
+        "by": "AG3",
+        "status": "accepted"
+      },
+      "assignee": "AG3",
+      "authority_mode": "local_operator_attested",
+      "control_revision_at_start": 11,
+      "id": "bc-navigation-review-v1",
+      "inputs": [],
+      "intended_use": "preparation_navigation",
+      "output": null,
+      "phase": "submitted",
+      "receipt_id": "bc-navigation-review-v1",
+      "requester": "AG0",
+      "review_basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+      "review_input_issues": [],
+      "review_target_fingerprint": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "snapshot": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 3,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "target_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "task_kind": "review",
+      "work_status": "submitted",
+      "output_receipt": {
+        "kind": "review_submission",
+        "operation_id": "integration-review-navigation-v1",
+        "receipt_id": "bc-navigation-review-v1",
+        "target_ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        },
+        "target_sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+        "basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+        "scope": [
+          "review-boundaries",
+          "version-routing"
+        ],
+        "outcome": "supported",
+        "meaning": "version_bound_review_not_adoption"
+      }
+    },
+    {
+      "acceptance": {
+        "by": "AG3",
+        "status": "accepted"
+      },
+      "assignee": "AG3",
+      "authority_mode": "local_operator_attested",
+      "control_revision_at_start": 11,
+      "id": "bc-navigation-review-v2",
+      "inputs": [],
+      "intended_use": "preparation_navigation",
+      "output": null,
+      "phase": "submitted",
+      "receipt_id": "bc-navigation-review-v2",
+      "requester": "AG0",
+      "review_basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+      "review_input_issues": [],
+      "review_target_fingerprint": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "snapshot": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 3,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "target_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 2
+      },
+      "task_kind": "review",
+      "work_status": "submitted",
+      "output_receipt": {
+        "kind": "review_submission",
+        "operation_id": "integration-review-navigation-v2",
+        "receipt_id": "bc-navigation-review-v2",
+        "target_ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        },
+        "target_sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+        "basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+        "scope": [
+          "review-boundaries",
+          "version-routing"
+        ],
+        "outcome": "supported",
+        "meaning": "version_bound_review_not_adoption"
+      }
+    },
+    {
+      "acceptance": {
+        "by": "AG2",
+        "status": "accepted"
+      },
+      "assignee": "AG2",
+      "authority_mode": "local_operator_attested",
+      "base_ref": null,
+      "control_revision_at_start": 11,
+      "draft_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "id": "bc-navigation-v1",
+      "inputs": [
+        {
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        },
+        {
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        },
+        {
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        },
+        {
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        },
+        {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        }
+      ],
+      "intended_use": "preparation_navigation",
+      "output": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "requires_ag3_review": true,
+        "type": "MaterialUse",
+        "validation_profile": "utf8"
+      },
+      "phase": "submitted",
+      "provisional_inputs": [],
+      "requester": "AG0",
+      "result_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "snapshot": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 3,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "target_ref": null,
+      "task_kind": "production",
+      "work_status": "submitted",
+      "output_receipt": {
+        "kind": "artifact_submission",
+        "operation_id": "integration-publish-navigation-v1",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        },
+        "path": "artifacts/coordinator-integration/bc-preparation-navigation-v1.md",
+        "sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+        "validation": {
+          "checks": [
+            "nonempty",
+            "sha256",
+            "utf8"
+          ],
+          "meaning": "structural_checks_not_professional_correctness",
+          "profile": "utf8",
+          "sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+          "status": "passed"
+        },
+        "adoption_state": "Superseded",
+        "meaning": "registered_file_submission_not_adoption"
+      }
+    },
+    {
+      "acceptance": {
+        "by": "AG2",
+        "status": "accepted"
+      },
+      "assignee": "AG2",
+      "authority_mode": "local_operator_attested",
+      "base_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "control_revision_at_start": 11,
+      "draft_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 2
+      },
+      "id": "bc-navigation-v2",
+      "inputs": [
+        {
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        },
+        {
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        },
+        {
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        },
+        {
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        },
+        {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "policy": "adopted",
+          "scope": [
+            "BC-first-stage"
+          ]
+        }
+      ],
+      "intended_use": "preparation_navigation",
+      "output": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "requires_ag3_review": true,
+        "type": "MaterialUse",
+        "validation_profile": "utf8"
+      },
+      "phase": "submitted",
+      "provisional_inputs": [],
+      "requester": "AG0",
+      "result_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 2
+      },
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "snapshot": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 3,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "target_ref": null,
+      "task_kind": "production",
+      "work_status": "submitted",
+      "output_receipt": {
+        "kind": "artifact_submission",
+        "operation_id": "integration-publish-navigation-v2",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        },
+        "path": "artifacts/coordinator-integration/bc-preparation-navigation-v2.md",
+        "sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+        "validation": {
+          "checks": [
+            "nonempty",
+            "sha256",
+            "utf8"
+          ],
+          "meaning": "structural_checks_not_professional_correctness",
+          "profile": "utf8",
+          "sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+          "status": "passed"
+        },
+        "adoption_state": "Adopted",
+        "meaning": "registered_file_submission_not_adoption"
+      }
+    }
+  ],
+  "artifacts": [
+    {
+      "adoption": {
+        "status": "superseded",
+        "scope": [],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "basis_refs": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+        }
+      ],
+      "bytes": 18572,
+      "changed_scope": null,
+      "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+      "intended_use": "teaching",
+      "origin": "explicit_historical_file_registration",
+      "owner": "AG2",
+      "path": "materials/bc-closed-loop-20261012/disciplinary-research-v1.md",
+      "requires_ag3_review": true,
+      "revision": 1,
+      "scope": [
+        "BC-first-stage"
+      ],
+      "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10",
+      "task_id": null,
+      "type": "SourceFragment",
+      "state": "Superseded",
+      "verified_scope": [],
+      "superseded_scope": [
+        "BC-first-stage"
+      ],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "file_integrity",
+        "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10",
+        "status": "passed"
+      },
+      "input_issues": [
+        {
+          "code": "upstream_changed",
+          "old_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "new_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 2
+          },
+          "scope": "BC-first-stage",
+          "intended_use": "teaching"
+        }
+      ],
+      "scope_states": {
+        "BC-first-stage": "Superseded"
+      },
+      "eligibility": "pending_recheck",
+      "verification_pending": [
+        {
+          "scope": "BC-first-stage",
+          "next_owner": "AG2"
+        }
+      ],
+      "historical_adoption": false
+    },
+    {
+      "adoption": {
+        "status": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "basis_refs": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "bytes": 18781,
+      "changed_scope": null,
+      "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+      "intended_use": "teaching",
+      "origin": "explicit_historical_file_registration",
+      "owner": "AG2",
+      "path": "materials/bc-closed-loop-20261012/disciplinary-research-v2.md",
+      "requires_ag3_review": true,
+      "revision": 2,
+      "scope": [
+        "BC-first-stage"
+      ],
+      "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2",
+      "task_id": null,
+      "type": "SourceFragment",
+      "state": "Adopted",
+      "verified_scope": [],
+      "superseded_scope": [],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "file_integrity",
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      },
+      "eligibility": "usable",
+      "verification_pending": [
+        {
+          "scope": "BC-first-stage",
+          "next_owner": "AG2"
+        }
+      ],
+      "historical_adoption": true
+    },
+    {
+      "adoption": {
+        "status": "superseded",
+        "scope": [],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "basis_refs": [],
+      "bytes": 9665,
+      "changed_scope": null,
+      "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+      "intended_use": "teaching",
+      "origin": "explicit_historical_file_registration",
+      "owner": "AG2",
+      "path": "materials/bc-closed-loop-20261012/source-notes-v1.md",
+      "requires_ag3_review": true,
+      "revision": 1,
+      "scope": [
+        "BC-first-stage"
+      ],
+      "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244",
+      "task_id": null,
+      "type": "SourceFragment",
+      "state": "Superseded",
+      "verified_scope": [],
+      "superseded_scope": [
+        "BC-first-stage"
+      ],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "file_integrity",
+        "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "BC-first-stage": "Superseded"
+      },
+      "eligibility": "pending_review",
+      "verification_pending": [
+        {
+          "scope": "BC-first-stage",
+          "next_owner": "AG2"
+        }
+      ],
+      "historical_adoption": false
+    },
+    {
+      "adoption": {
+        "status": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "basis_refs": [],
+      "bytes": 10350,
+      "changed_scope": null,
+      "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+      "intended_use": "teaching",
+      "origin": "explicit_historical_file_registration",
+      "owner": "AG2",
+      "path": "materials/bc-closed-loop-20261012/source-notes-v2.md",
+      "requires_ag3_review": true,
+      "revision": 2,
+      "scope": [
+        "BC-first-stage"
+      ],
+      "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc",
+      "task_id": null,
+      "type": "SourceFragment",
+      "state": "Adopted",
+      "verified_scope": [],
+      "superseded_scope": [],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "file_integrity",
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      },
+      "eligibility": "usable",
+      "verification_pending": [
+        {
+          "scope": "BC-first-stage",
+          "next_owner": "AG2"
+        }
+      ],
+      "historical_adoption": true
+    },
+    {
+      "adoption": {
+        "status": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "basis_refs": [
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+        }
+      ],
+      "bytes": 18675,
+      "changed_scope": null,
+      "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+      "intended_use": "teaching",
+      "origin": "explicit_historical_file_registration",
+      "owner": "AG1",
+      "path": "artifacts/bc-closed-loop-20261012/cognitive-design-v1.md",
+      "requires_ag3_review": true,
+      "revision": 1,
+      "scope": [
+        "BC-first-stage"
+      ],
+      "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035",
+      "task_id": null,
+      "type": "ActivitySpec",
+      "state": "Adopted",
+      "verified_scope": [],
+      "superseded_scope": [],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "file_integrity",
+        "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      },
+      "eligibility": "usable",
+      "verification_pending": [
+        {
+          "scope": "BC-first-stage",
+          "next_owner": "AG1"
+        }
+      ],
+      "historical_adoption": true
+    },
+    {
+      "adoption": {
+        "status": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "basis_refs": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+        }
+      ],
+      "bytes": 6545,
+      "changed_scope": null,
+      "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+      "intended_use": "teaching",
+      "origin": "explicit_historical_file_registration",
+      "owner": "AG1",
+      "path": "goals/bc-closed-loop-20261012/goal-v1.md",
+      "requires_ag3_review": true,
+      "revision": 1,
+      "scope": [
+        "BC-first-stage"
+      ],
+      "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490",
+      "task_id": null,
+      "type": "GoalSpec",
+      "state": "Adopted",
+      "verified_scope": [],
+      "superseded_scope": [],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "file_integrity",
+        "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      },
+      "eligibility": "usable",
+      "verification_pending": [
+        {
+          "scope": "BC-first-stage",
+          "next_owner": "AG1"
+        }
+      ],
+      "historical_adoption": true
+    },
+    {
+      "adoption": {
+        "status": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "basis_refs": [
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "bytes": 10725,
+      "changed_scope": null,
+      "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+      "intended_use": "teaching",
+      "origin": "explicit_historical_file_registration",
+      "owner": "AG2",
+      "path": "materials/bc-closed-loop-20261012/material-uses-v3.md",
+      "requires_ag3_review": true,
+      "revision": 3,
+      "scope": [
+        "BC-first-stage"
+      ],
+      "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1",
+      "task_id": null,
+      "type": "MaterialUse",
+      "state": "Adopted",
+      "verified_scope": [],
+      "superseded_scope": [],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "file_integrity",
+        "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      },
+      "eligibility": "usable",
+      "verification_pending": [
+        {
+          "scope": "BC-first-stage",
+          "next_owner": "AG2"
+        }
+      ],
+      "historical_adoption": true
+    },
+    {
+      "adoption": {
+        "status": "superseded",
+        "scope": [],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "base_ref": null,
+      "basis_refs": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 3,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "bytes": 1534,
+      "changed_scope": [
+        "version-routing",
+        "review-boundaries"
+      ],
+      "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+      "intended_use": "preparation_navigation",
+      "owner": "AG2",
+      "path": "artifacts/coordinator-integration/bc-preparation-navigation-v1.md",
+      "requires_ag3_review": true,
+      "revision": 1,
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+      "task_id": "bc-navigation-v1",
+      "type": "MaterialUse",
+      "state": "Superseded",
+      "verified_scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "superseded_scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256",
+          "utf8"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "utf8",
+        "sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "review-boundaries": "Superseded",
+        "version-routing": "Superseded"
+      },
+      "eligibility": "usable",
+      "verification_pending": [],
+      "historical_adoption": false
+    },
+    {
+      "adoption": {
+        "status": "adopted",
+        "scope": [
+          "review-boundaries",
+          "version-routing"
+        ],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "base_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "basis_refs": [
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-G-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-D-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 3,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-M-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "inherited_recheck_id": "historical-EMB-P-BC-CLOSED-LOOP-20261012-EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "original_ref": {
+            "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+            "revision": 1
+          },
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "bytes": 1793,
+      "changed_scope": [
+        "review-boundaries"
+      ],
+      "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+      "intended_use": "preparation_navigation",
+      "owner": "AG2",
+      "path": "artifacts/coordinator-integration/bc-preparation-navigation-v2.md",
+      "requires_ag3_review": true,
+      "revision": 2,
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+      "task_id": "bc-navigation-v2",
+      "type": "MaterialUse",
+      "state": "Adopted",
+      "verified_scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "superseded_scope": [],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256",
+          "utf8"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "utf8",
+        "sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "review-boundaries": "Adopted",
+        "version-routing": "Adopted"
+      },
+      "eligibility": "usable",
+      "verification_pending": [],
+      "historical_adoption": false
+    },
+    {
+      "adoption": {
+        "status": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "meaning": "derived_from_use_scope_pointers"
+      },
+      "basis_refs": [
+        {
+          "adoption_required": true,
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 1,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "intended_use": "teaching",
+          "revision": 3,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+        },
+        {
+          "adoption_required": true,
+          "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+          "intended_use": "teaching",
+          "revision": 2,
+          "scope": [
+            "BC-first-stage"
+          ],
+          "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+        }
+      ],
+      "bytes": 9283,
+      "changed_scope": null,
+      "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+      "intended_use": "teaching",
+      "origin": "explicit_historical_file_registration",
+      "owner": "AG1",
+      "path": "plan/bc-closed-loop-20261012/first-stage-plan-v2.md",
+      "requires_ag3_review": true,
+      "revision": 2,
+      "scope": [
+        "BC-first-stage"
+      ],
+      "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499",
+      "task_id": null,
+      "type": "PlanCommitment",
+      "state": "Adopted",
+      "verified_scope": [],
+      "superseded_scope": [],
+      "validation": {
+        "checks": [
+          "nonempty",
+          "sha256"
+        ],
+        "meaning": "structural_checks_not_professional_correctness",
+        "profile": "file_integrity",
+        "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499",
+        "status": "passed"
+      },
+      "input_issues": [],
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      },
+      "eligibility": "usable",
+      "verification_pending": [
+        {
+          "scope": "BC-first-stage",
+          "next_owner": "AG1"
+        }
+      ],
+      "historical_adoption": true
+    }
+  ],
+  "adopted_pointers": [
+    {
+      "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+      "intended_use": "teaching",
+      "scope": "BC-first-stage",
+      "revision": 2
+    },
+    {
+      "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+      "intended_use": "teaching",
+      "scope": "BC-first-stage",
+      "revision": 2
+    },
+    {
+      "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+      "intended_use": "teaching",
+      "scope": "BC-first-stage",
+      "revision": 1
+    },
+    {
+      "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+      "intended_use": "teaching",
+      "scope": "BC-first-stage",
+      "revision": 1
+    },
+    {
+      "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+      "intended_use": "teaching",
+      "scope": "BC-first-stage",
+      "revision": 3
+    },
+    {
+      "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+      "intended_use": "preparation_navigation",
+      "scope": "review-boundaries",
+      "revision": 2
+    },
+    {
+      "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+      "intended_use": "preparation_navigation",
+      "scope": "version-routing",
+      "revision": 2
+    },
+    {
+      "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+      "intended_use": "teaching",
+      "scope": "BC-first-stage",
+      "revision": 2
+    }
+  ],
+  "reliability_version": "tac-reliability/0.1.0",
+  "drafts": [],
+  "complete_version": "tac-complete/0.1.0",
+  "impacts": [],
+  "authority": {
+    "coordination": "sqlite_registered_versions_tasks_receipts_pointers",
+    "external": [
+      "state/control.md",
+      "state/current.md",
+      "plan/current.md"
+    ],
+    "professional_decisions": "explicit_role_receipts"
+  },
+  "receipts": [
+    {
+      "authority_mode": "local_operator_attested",
+      "base_receipt_id": null,
+      "basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+      "by": "AG2",
+      "directly_checked_scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "id": "bc-navigation-owner-v1",
+      "inherited_scope": [],
+      "intended_use": "preparation_navigation",
+      "kind": "professional_confirmation",
+      "outcome": "supported",
+      "rationale": "当前模型按AG2职能实际读取锁定原件，核对导航版本、原v1/v2相容来源和未执行边界；仅支持备课导航，不新增学科正确性、完整论文复核或学习表现",
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "supersedes_receipt_ids": [],
+      "target_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "target_sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9"
+    },
+    {
+      "authority_mode": "local_operator_attested",
+      "base_receipt_id": null,
+      "basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+      "by": "AG3",
+      "directly_checked_scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "id": "bc-navigation-review-v1",
+      "inherited_scope": [],
+      "intended_use": "preparation_navigation",
+      "kind": "ag3_review",
+      "outcome": "supported",
+      "rationale": "当前模型顺序兼任AG3，实际读取navigation-v1与锁定依据；从备课入口用途核路由、原版本相容证据和未教学边界，范围充分；不是独立复核，未重新裁定原学科内容或能力",
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "supersedes_receipt_ids": [],
+      "target_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "target_sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9"
+    },
+    {
+      "authority_mode": "local_operator_attested",
+      "base_receipt_id": null,
+      "basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+      "by": "AG2",
+      "directly_checked_scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "id": "bc-navigation-owner-v2",
+      "inherited_scope": [],
+      "intended_use": "preparation_navigation",
+      "kind": "professional_confirmation",
+      "outcome": "supported",
+      "rationale": "实际读回v2及原review-v1/v2来源限制；补充仅说明审查读取范围，版本路由不变，支持有限导航；同模型职能核对，不是独立研究或学习表现",
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "supersedes_receipt_ids": [],
+      "target_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 2
+      },
+      "target_sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4"
+    },
+    {
+      "authority_mode": "local_operator_attested",
+      "base_receipt_id": "bc-navigation-review-v1",
+      "basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+      "by": "AG3",
+      "compatibility_rationale": "实际比较导航v1/v2，既有版本路由与依赖没有变化；本次补读原AG3限制并核新增边界段，保留v1路由结论，不把继承部分登记为独立重新阅读",
+      "directly_checked_scope": [
+        "review-boundaries"
+      ],
+      "id": "bc-navigation-review-v2",
+      "inherited_scope": [
+        "version-routing"
+      ],
+      "intended_use": "preparation_navigation",
+      "kind": "ag3_review",
+      "outcome": "supported",
+      "rationale": "同模型顺序兼任AG3，新增边界与原review-v1/v2实际读取限制一致，只支持准备导航；不扩大原学科核验、教学表现或独立性",
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "supersedes_receipt_ids": [],
+      "target_ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 2
+      },
+      "target_sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4"
+    }
+  ],
+  "dependency_edges": [
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 1,
+        "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 1,
+        "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 1,
+        "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 1,
+        "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 1,
+        "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "revision": 3
+        }
+      },
+      "input": {
+        "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "revision": 3
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 1,
+        "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "revision": 3
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 1,
+        "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "revision": 3
+        }
+      },
+      "input": {
+        "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "revision": 3
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+          "revision": 3
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+        "revision": 3,
+        "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+        "revision": 2,
+        "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+        "revision": 3,
+        "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+        "revision": 2,
+        "sha256": "af130a4fc534bcdd413d8a128aebab4d91154546080a7db3e41830fe162f7499"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "5f4fe9f8a9dbc7e1985be51f46aff920dbcbca27303b600413c457f6cb873490"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 1,
+        "sha256": "4c7548047aa02d61cf9401b1bc0130502239cd440fed14195c9cd0bf34f99c10"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 1,
+        "sha256": "7db3587f8659de1ecca44f395da571f523e1a8205f85ae9beb3c7c6c25190244"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+        "revision": 1,
+        "sha256": "f18c5641d2d06258c2af6abaa2aab8ea7949cc79dfe590d0730d5f5bbfa8e035"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+        "revision": 3,
+        "sha256": "22a25d152f1861eb34bfed11b0581135838a74a92de5fdd16c30dcdbe57d6cc1"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2,
+        "sha256": "fa43f10cf4daa94c4869d3275026cee36802453525d8dab3830437485ef91fb2"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "artifact",
+        "ref": {
+          "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+          "revision": 2
+        }
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2,
+        "sha256": "7b04ba3a4ab99ee08f948a4ffe5737645c948428a1a0386058e62b795fcba0dc"
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "registered_version_basis"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v1"
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v1"
+      },
+      "input": {
+        "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v1"
+      },
+      "input": {
+        "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v1"
+      },
+      "input": {
+        "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v1"
+      },
+      "input": {
+        "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v2"
+      },
+      "input": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v2"
+      },
+      "input": {
+        "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v2"
+      },
+      "input": {
+        "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v2"
+      },
+      "input": {
+        "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    },
+    {
+      "consumer": {
+        "kind": "task",
+        "id": "bc-navigation-v2"
+      },
+      "input": {
+        "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+        "intended_use": "teaching",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ]
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "relation": "depends_on",
+      "provenance": "declared_task_input"
+    }
+  ],
+  "summary": [
+    {
+      "kind": "artifact",
+      "ref": {
+        "id": "EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012",
+        "revision": 2
+      },
+      "state": "Adopted",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "next_owner": null,
+      "next_action": "可按已采用范围使用",
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      }
+    },
+    {
+      "kind": "artifact",
+      "ref": {
+        "id": "EMB-BC-CLOSED-LOOP-SOURCES-20261012",
+        "revision": 2
+      },
+      "state": "Adopted",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "next_owner": null,
+      "next_action": "可按已采用范围使用",
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      }
+    },
+    {
+      "kind": "artifact",
+      "ref": {
+        "id": "EMB-D-BC-CLOSED-LOOP-20261012",
+        "revision": 1
+      },
+      "state": "Adopted",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "next_owner": null,
+      "next_action": "可按已采用范围使用",
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      }
+    },
+    {
+      "kind": "artifact",
+      "ref": {
+        "id": "EMB-G-BC-CLOSED-LOOP-20261012",
+        "revision": 1
+      },
+      "state": "Adopted",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "next_owner": null,
+      "next_action": "可按已采用范围使用",
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      }
+    },
+    {
+      "kind": "artifact",
+      "ref": {
+        "id": "EMB-M-BC-CLOSED-LOOP-20261012",
+        "revision": 3
+      },
+      "state": "Adopted",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "next_owner": null,
+      "next_action": "可按已采用范围使用",
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      }
+    },
+    {
+      "kind": "artifact",
+      "ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 2
+      },
+      "state": "Adopted",
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "intended_use": "preparation_navigation",
+      "next_owner": null,
+      "next_action": "可按已采用范围使用",
+      "scope_states": {
+        "review-boundaries": "Adopted",
+        "version-routing": "Adopted"
+      }
+    },
+    {
+      "kind": "artifact",
+      "ref": {
+        "id": "EMB-P-BC-CLOSED-LOOP-20261012",
+        "revision": 2
+      },
+      "state": "Adopted",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "next_owner": null,
+      "next_action": "可按已采用范围使用",
+      "scope_states": {
+        "BC-first-stage": "Adopted"
+      }
+    },
+    {
+      "kind": "task",
+      "task_id": "bc-navigation-review-v1",
+      "state": "submitted",
+      "ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "next_owner": null,
+      "next_action": "查看实际提交回执；采用另行核对",
+      "blocked_reason": null,
+      "output_receipt": {
+        "kind": "review_submission",
+        "operation_id": "integration-review-navigation-v1",
+        "receipt_id": "bc-navigation-review-v1",
+        "target_ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        },
+        "target_sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+        "basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+        "scope": [
+          "review-boundaries",
+          "version-routing"
+        ],
+        "outcome": "supported",
+        "meaning": "version_bound_review_not_adoption"
+      }
+    },
+    {
+      "kind": "task",
+      "task_id": "bc-navigation-review-v2",
+      "state": "submitted",
+      "ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 2
+      },
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "next_owner": null,
+      "next_action": "查看实际提交回执；采用另行核对",
+      "blocked_reason": null,
+      "output_receipt": {
+        "kind": "review_submission",
+        "operation_id": "integration-review-navigation-v2",
+        "receipt_id": "bc-navigation-review-v2",
+        "target_ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        },
+        "target_sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+        "basis_signature": "76b6f81e48cfb083ce59c3ce821179076d4cc58d1feee1c3af4f936d4a77d666",
+        "scope": [
+          "review-boundaries",
+          "version-routing"
+        ],
+        "outcome": "supported",
+        "meaning": "version_bound_review_not_adoption"
+      }
+    },
+    {
+      "kind": "task",
+      "task_id": "bc-navigation-v1",
+      "state": "submitted",
+      "ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 1
+      },
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "next_owner": null,
+      "next_action": "查看实际提交回执；采用另行核对",
+      "blocked_reason": null,
+      "output_receipt": {
+        "kind": "artifact_submission",
+        "operation_id": "integration-publish-navigation-v1",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 1
+        },
+        "path": "artifacts/coordinator-integration/bc-preparation-navigation-v1.md",
+        "sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+        "validation": {
+          "checks": [
+            "nonempty",
+            "sha256",
+            "utf8"
+          ],
+          "meaning": "structural_checks_not_professional_correctness",
+          "profile": "utf8",
+          "sha256": "552a7d948ce5cd0549dab0d328fb52484f0ef185da91865e2d65a5aac4d5f3e9",
+          "status": "passed"
+        },
+        "adoption_state": "Superseded",
+        "meaning": "registered_file_submission_not_adoption"
+      }
+    },
+    {
+      "kind": "task",
+      "task_id": "bc-navigation-v2",
+      "state": "submitted",
+      "ref": {
+        "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+        "revision": 2
+      },
+      "scope": [
+        "review-boundaries",
+        "version-routing"
+      ],
+      "next_owner": null,
+      "next_action": "查看实际提交回执；采用另行核对",
+      "blocked_reason": null,
+      "output_receipt": {
+        "kind": "artifact_submission",
+        "operation_id": "integration-publish-navigation-v2",
+        "ref": {
+          "id": "EMB-M-BC-COORDINATION-ENTRY-20261013",
+          "revision": 2
+        },
+        "path": "artifacts/coordinator-integration/bc-preparation-navigation-v2.md",
+        "sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+        "validation": {
+          "checks": [
+            "nonempty",
+            "sha256",
+            "utf8"
+          ],
+          "meaning": "structural_checks_not_professional_correctness",
+          "profile": "utf8",
+          "sha256": "649e4fc954e8e1e69f19704b89e9d5f1e7bb60b69e7cb08e99c8c7cd129ebae4",
+          "status": "passed"
+        },
+        "adoption_state": "Adopted",
+        "meaning": "registered_file_submission_not_adoption"
+      }
+    }
+  ]
+}

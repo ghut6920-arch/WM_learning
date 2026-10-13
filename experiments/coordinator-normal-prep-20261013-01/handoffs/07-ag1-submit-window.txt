@@ -1,0 +1,3 @@
+现在AG1可串行submit/confirm，AG0暂不写。submit {operation_id:'normal-prep-submit-ag1-design-v1',task_id:'normal-prep-ag1-design-v1',path:'artifacts/bc-normal-20261013-01/design/design-v1.md',changed_scope:['BC-first-stage']}；confirm {operation_id:'normal-prep-confirm-ag1-design-v1',ref:{id:'EMB-BC-NORMAL-DESIGN-20261013-01',revision:1},receipt_id:'normal-prep-ag1-design-owner-v1',scope:['BC-first-stage'],intended_use:'teaching',outcome:'supported',rationale:实际设计核验及仍待材料/AG3边界}。按程序取inbox并ack。回报真实回执、输入问题/影响；整体设计尚未正式采用，AG2将通过exact候选输入与明确暂定条件消费，最终AG3审查后一起采用。不要覆盖这些v1。
+
+实际先用send_message投递，此时原生成回合结束，随后用followup_task以同一正文启动提交回合；两个工具调用确实发生。没有因此重复submit，程序逻辑提交只发生一次。

@@ -1,0 +1,26 @@
+{
+  "operation_id": "normal-prep-register-ag1-design-v1",
+  "id": "normal-prep-ag1-design-v1",
+  "assignee": "AG1",
+  "task_kind": "production",
+  "scope": [
+    "BC-first-stage"
+  ],
+  "intended_use": "teaching",
+  "inputs": [
+    {
+      "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+      "policy": "adopted",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching"
+    }
+  ],
+  "output": {
+    "id": "EMB-BC-NORMAL-DESIGN-20261013-01",
+    "type": "GoalSpec",
+    "requires_ag3_review": true,
+    "validation_profile": "utf8"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:14:55.019798+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\artifacts\\bc-normal-20261013-01\\material\\manifest-v1.json",
+  "sha256": "42cf94a0c586119eb23758fad9c47869be79b404b58e99ba7afdfd6182b00b1f",
+  "bytes": 3549,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\42cf94a0c586119eb23758fad9c47869be79b404b58e99ba7afdfd6182b00b1f"
+}

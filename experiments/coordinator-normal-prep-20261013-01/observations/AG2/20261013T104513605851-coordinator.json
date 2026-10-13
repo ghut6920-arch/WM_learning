@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-13T10:45:13.605851+00:00",
+  "role": "AG2",
+  "kind": "coordinator",
+  "command": [
+    "E:\\anaconda\\python.exe",
+    "-B",
+    "-X",
+    "utf8",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "--workspace",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+    "--role",
+    "AG2",
+    "--help"
+  ],
+  "stdout": "usage: coordinate_preparation.py [-h] --workspace WORKSPACE --role\n                                 {AG0,AG1,AG2,AG3}\n                                 [--control-projection CONTROL_PROJECTION]\n                                 {init,state,brief,events,inbox,boundary,snapshot,diff,current,operation,receipt,recover,execute,publish}\n                                 ...\n\nTask & Artifact Coordinator entry for the actual manual-file learning host.\n\npositional arguments:\n  {init,state,brief,events,inbox,boundary,snapshot,diff,current,operation,receipt,recover,execute,publish}\n\noptions:\n  -h, --help            show this help message and exit\n  --workspace WORKSPACE\n  --role {AG0,AG1,AG2,AG3}\n  --control-projection CONTROL_PROJECTION\n",
+  "stderr": "",
+  "exit_code": 0
+}

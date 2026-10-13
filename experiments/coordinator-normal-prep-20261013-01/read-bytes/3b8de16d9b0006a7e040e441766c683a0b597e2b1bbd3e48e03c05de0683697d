@@ -1,0 +1,32 @@
+# 任务与产物协调器：实际入口
+
+2026-10-13。当前人工文件宿主已接入`tac-complete/0.1.0`；程序维护登记产物，AG0继续专业规划与最终采用。完整操作与字段见[文件协作协议](../../personal-learning-suite/specs/coordinator-protocol.md)。
+
+## 唯一状态来源
+
+- 本目录`.coordinator/records.sqlite3`：已登记文件版本、任务、输入快照、依赖、审查/确认回执、按用途/范围采用的指针与本地事件。
+- [state/control.md](state/control.md)：实际用户控制；[coordination/control.json](coordination/control.json)只是绑定原来源指纹的门禁投影，来源变化须重读并更新，不独立决定授权。
+- [state/current.md](state/current.md)、[plan/current.md](plan/current.md)：学习事实、断点及安排，继续由原协议维护。协调器任务完成不等于学习发生。
+- 原专业文件：完整正文与历史发生事实保留。正文中的生成时状态不当作当前协调指针。当前版本必须查程序，不另写可独立编辑的“当前采用表”。
+
+## 角色实际调用
+
+AG0登记生产/审查任务、明确审查政策和输入策略；AG1/AG2开始前执行start并取得snapshot字节，确认基版和范围，按需要登记draft。任务只报告running、submitted、blocked与实际产物/审查回执，不填写百分比。提交时用新路径执行submit或publish，处理input_issues及affected_downstream。AG3针对确切target_ref开始并提交意见；AG0最后读取brief、核回执与expected_pointers，再adopt。具体JSON示例与完整本次操作记录在[接入记录](coordination/integration-trace.json)。
+
+从项目根执行当前短摘要：
+
+```powershell
+python -B -X utf8 personal-learning-suite/scripts/coordinate_preparation.py --workspace learning/embodied-intelligence --role AG0 brief
+```
+
+各执行上下文自行选择稳定consumer_id，开始、候选提交、审查返回、最终采用及等待恢复时取inbox，取得上下文后ack_events。事件不自动注入正在推理的模型；不需要新增Agent或后台服务。关键节点由程序再次校验，不能跳过程序后凭文件名宣称正式采用。
+
+确实要等修订结果才用after_task；无关部分用已采用旧版，候选暂定必须写明确条件。草稿不能作正式输入，失败/超时保留旧采用版并明确交回AG0。受影响结果可保存候选，后续局部复核或修订由专业方决定。
+
+原有未登记学习记录不全部迁库。普通原答保存、反馈和断点保持原协议；准备新单元及修改已登记专业产物进入协调入口。无工具时说明不能完成新协调提交，保留当前采用版和合法的无关工作。
+
+## 本次接入边界
+
+历史BC备课原件按明确对象版本和采用证据登记，不把最高文件名当有效版，不把历史兼容或局部审查记成新发生。前瞻试运行仅制作备课协作导航，专业确认/AG3功能均由本维护模型顺序兼任，不称独立复核。原备课充分性、用户能力和原教学断点不改，不启动授课、实验、外部消息或安装。
+
+角色仍为可信本地操作员声明；文件协议不提供模型身份认证或恶意磁盘写入隔离。控制来源、指纹、SQLite事务和关键节点校验实际运行；共享专业语义仍由原契约和Agent职责维护。

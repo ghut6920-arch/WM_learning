@@ -1,0 +1,6 @@
+{
+  "operation_id": "normal-prep-ack-ag1-design-start-v1",
+  "consumer_id": "normal-prep-ag1-design",
+  "through_sequence": 26,
+  "expected_state_revision": 30
+}

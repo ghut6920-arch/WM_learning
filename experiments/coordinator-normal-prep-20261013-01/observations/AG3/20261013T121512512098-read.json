@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:15:12.512098+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\materials\\bc-normal-20261013-01\\03-data-information-and-modes-v1.md",
+  "sha256": "162bc25cda3dc0a3515809d0e2db6f379c69b6806b7921de04679c160e4e33e0",
+  "bytes": 3841,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\162bc25cda3dc0a3515809d0e2db6f379c69b6806b7921de04679c160e4e33e0"
+}

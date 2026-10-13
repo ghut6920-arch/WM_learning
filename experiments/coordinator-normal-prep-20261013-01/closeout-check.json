@@ -1,0 +1,23 @@
+{
+  "recorded_at": "2026-10-13T12:32:34.812183+00:00",
+  "missing_delivery_files": [],
+  "resolved_versions": [
+    {
+      "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+      "revision": 1
+    },
+    {
+      "id": "EMB-BC-NORMAL-DESIGN-20261013-01",
+      "revision": 1
+    },
+    {
+      "id": "EMB-BC-NORMAL-MATERIAL-20261013-01",
+      "revision": 1
+    }
+  ],
+  "current_returned_bytes_match": true,
+  "request_copy_matches": true,
+  "formal_rules_unchanged": true,
+  "db_frozen_integrity": "ok",
+  "meaning": "delivery and archive checks only, no learner or pedagogical-effect evaluation"
+}

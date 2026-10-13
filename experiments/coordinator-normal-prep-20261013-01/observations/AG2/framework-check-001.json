@@ -1,0 +1,6 @@
+{
+  "role": "AG2",
+  "kind": "framework_fingerprint_check",
+  "actual_return": "{\r\n  \"checked_files\": 127,\r\n  \"mismatches\": [],\r\n  \"generated_at\": \"2026-10-13\"\r\n}\r\n",
+  "notes": "Initial check used wrong files field, gave no valid verification; corrected entries field is the actual check reported here"
+}

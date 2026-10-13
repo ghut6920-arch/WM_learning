@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T10:44:48.989167+00:00",
+  "role": "AG2",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\personal-learning-suite\\src\\agents\\AG2-materials.md",
+  "sha256": "5c4084e9379be81929863216a8c02e1dddded39cd2ed26775decc42e41624041",
+  "bytes": 9356,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\5c4084e9379be81929863216a8c02e1dddded39cd2ed26775decc42e41624041"
+}

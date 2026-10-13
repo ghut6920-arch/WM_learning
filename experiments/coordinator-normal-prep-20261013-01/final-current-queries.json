@@ -1,0 +1,54 @@
+{
+  "source": "actual post-adoption current queries",
+  "authority": "frozen archive only; live database is sole pointer authority",
+  "rows": [
+    {
+      "status": "ok",
+      "ref": {
+        "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+        "revision": 1
+      },
+      "path": "artifacts/bc-normal-20261013-01/disciplinary/research-v1.md",
+      "sha256": "3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "meaning": "scoped_adopted_input_not_latest_file",
+      "decoded_content_sha256": "3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe",
+      "returned_byte_count": 12675
+    },
+    {
+      "status": "ok",
+      "ref": {
+        "id": "EMB-BC-NORMAL-DESIGN-20261013-01",
+        "revision": 1
+      },
+      "path": "artifacts/bc-normal-20261013-01/design/design-v1.md",
+      "sha256": "9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "meaning": "scoped_adopted_input_not_latest_file",
+      "decoded_content_sha256": "9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5",
+      "returned_byte_count": 21844
+    },
+    {
+      "status": "ok",
+      "ref": {
+        "id": "EMB-BC-NORMAL-MATERIAL-20261013-01",
+        "revision": 1
+      },
+      "path": "artifacts/bc-normal-20261013-01/material/material-use-v1.md",
+      "sha256": "4e0ba1f114c1fee6d238c65c83c950343ff10e0762832475333b08acbec72457",
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "meaning": "scoped_adopted_input_not_latest_file",
+      "decoded_content_sha256": "4e0ba1f114c1fee6d238c65c83c950343ff10e0762832475333b08acbec72457",
+      "returned_byte_count": 13406
+    }
+  ]
+}

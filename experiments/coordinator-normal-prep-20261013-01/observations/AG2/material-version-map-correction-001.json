@@ -1,0 +1,10 @@
+{
+  "role": "AG2",
+  "kind": "observation_metadata_correction",
+  "corrects": "material-version-map-v1.json versions[0].sha256",
+  "reason": "A space was accidentally inserted while transcribing the already observed digest; original observation retained",
+  "path": "experiments/coordinator-normal-prep-20261013-01/observations/AG2/drafts/material-use-draft-001.md",
+  "sha256": "163f3f11dece21c679c2cd2c62620dc7702a75c2cfcccce64ef27596adf729df",
+  "basis": "The digest returned before the file was moved: 163F3F11DECE21C679C2CD2C62620DC7702A75C2CFCCCCE64EF27596ADF729DF",
+  "archive_read": "not_performed"
+}

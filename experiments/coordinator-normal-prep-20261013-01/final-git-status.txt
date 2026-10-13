@@ -1,0 +1,25 @@
+ M AGENTS.md
+ M FRAMEWORK.md
+ M MODEL_ENTRY.md
+ M framework-manifest.json
+ M state/control.md
+ M state/current.md
+?? .coordinator/
+?? COORDINATION.md
+?? artifacts/bc-normal-20261013-01/
+?? artifacts/coordinator-integration/
+?? assessment/bc-normal-20261013-01/
+?? code/bc-normal-20261013-01/
+?? code/coordination/
+?? coordination/
+?? experiments/bc-normal-20261013-01/
+?? experiments/coordinator-normal-prep-20261013-01/
+?? experiments/coordinator-replay-20261013-bc-loop-01/
+?? experiments/execution-trace-20261013-bc-loop-01/
+?? goals/bc-normal-20261013-01/
+?? materials/bc-normal-20261013-01/
+?? plan/bc-normal-20261013-01/
+?? questions/backup/bc-normal-20261013-01/
+?? questions/teacher-reference/bc-normal-20261013-01/
+?? questions/visible/bc-normal-20261013-01/
+?? sessions/2026-10-13-normal-prep-01/

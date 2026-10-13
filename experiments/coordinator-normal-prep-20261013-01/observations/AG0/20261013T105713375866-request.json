@@ -1,0 +1,35 @@
+{
+  "recorded_at": "2026-10-13T10:57:13.375866+00:00",
+  "role": "AG0",
+  "kind": "request",
+  "action": "register",
+  "source_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag1-design-v1.json",
+  "submitted_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag1-design-v1-submitted.json",
+  "payload": {
+    "operation_id": "normal-prep-register-ag1-design-v1",
+    "id": "normal-prep-ag1-design-v1",
+    "assignee": "AG1",
+    "task_kind": "production",
+    "scope": [
+      "BC-first-stage"
+    ],
+    "intended_use": "teaching",
+    "inputs": [
+      {
+        "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+        "policy": "adopted",
+        "scope": [
+          "BC-first-stage"
+        ],
+        "intended_use": "teaching"
+      }
+    ],
+    "output": {
+      "id": "EMB-BC-NORMAL-DESIGN-20261013-01",
+      "type": "GoalSpec",
+      "requires_ag3_review": true,
+      "validation_profile": "utf8"
+    },
+    "expected_state_revision": 28
+  }
+}

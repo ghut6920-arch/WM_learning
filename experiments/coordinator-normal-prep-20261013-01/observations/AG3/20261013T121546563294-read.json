@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:15:46.563294+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\questions\\teacher-reference\\bc-normal-20261013-01\\B-reference-v1.md",
+  "sha256": "c36fdf1b7d8606c9799542a286630031713b91a720bc201ea51478384d4c3d8b",
+  "bytes": 5399,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\c36fdf1b7d8606c9799542a286630031713b91a720bc201ea51478384d4c3d8b"
+}

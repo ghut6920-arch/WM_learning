@@ -1,0 +1,752 @@
+[
+  {
+    "path": "artifacts\\bc-normal-20261013-01\\design\\design-v1.md",
+    "sha256": "9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5",
+    "bytes": 21844,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\artifacts\\bc-normal-20261013-01\\design\\design-v1.md"
+  },
+  {
+    "path": "artifacts\\bc-normal-20261013-01\\design\\material-clarification-001-v1.md",
+    "sha256": "6ab66a133658cefa4a285832f125e28a51d8c401279fec6d9f6c387de8472793",
+    "bytes": 4208,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\artifacts\\bc-normal-20261013-01\\design\\material-clarification-001-v1.md"
+  },
+  {
+    "path": "artifacts\\bc-normal-20261013-01\\disciplinary\\mechanism-notes-v1.md",
+    "sha256": "7046cf8d5a5f7d5c3a2b71230e058ebac44c83e8b06d324d65abb3653300d91d",
+    "bytes": 4810,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\artifacts\\bc-normal-20261013-01\\disciplinary\\mechanism-notes-v1.md"
+  },
+  {
+    "path": "artifacts\\bc-normal-20261013-01\\disciplinary\\research-v1.md",
+    "sha256": "3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe",
+    "bytes": 12675,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\artifacts\\bc-normal-20261013-01\\disciplinary\\research-v1.md"
+  },
+  {
+    "path": "artifacts\\bc-normal-20261013-01\\material\\manifest-v1.json",
+    "sha256": "42cf94a0c586119eb23758fad9c47869be79b404b58e99ba7afdfd6182b00b1f",
+    "bytes": 3549,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\artifacts\\bc-normal-20261013-01\\material\\manifest-v1.json"
+  },
+  {
+    "path": "artifacts\\bc-normal-20261013-01\\material\\material-use-v1.md",
+    "sha256": "4e0ba1f114c1fee6d238c65c83c950343ff10e0762832475333b08acbec72457",
+    "bytes": 13406,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\artifacts\\bc-normal-20261013-01\\material\\material-use-v1.md"
+  },
+  {
+    "path": "artifacts\\bc-normal-20261013-01\\README.md",
+    "sha256": "a0b395325543b4c21fdbfd63be196dc52465f5e539e9acc40f6dede0c2c0b02d",
+    "bytes": 3597,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\artifacts\\bc-normal-20261013-01\\README.md"
+  },
+  {
+    "path": "materials\\bc-normal-20261013-01\\01-loop-and-feedback-v1.md",
+    "sha256": "20809341d2daf2abe557ebb101c917b2ba27abeeb1aefe89354a3f9b38e3b407",
+    "bytes": 5489,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\materials\\bc-normal-20261013-01\\01-loop-and-feedback-v1.md"
+  },
+  {
+    "path": "materials\\bc-normal-20261013-01\\02-evidence-and-diagnosis-v1.md",
+    "sha256": "5afdfd87446d22fdc359e124b13b9136da7e6e8c8560fb517ae6e7ceb9f913c9",
+    "bytes": 5161,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\materials\\bc-normal-20261013-01\\02-evidence-and-diagnosis-v1.md"
+  },
+  {
+    "path": "materials\\bc-normal-20261013-01\\03-data-information-and-modes-v1.md",
+    "sha256": "162bc25cda3dc0a3515809d0e2db6f379c69b6806b7921de04679c160e4e33e0",
+    "bytes": 3841,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\materials\\bc-normal-20261013-01\\03-data-information-and-modes-v1.md"
+  },
+  {
+    "path": "materials\\bc-normal-20261013-01\\source-fragments-v1.json",
+    "sha256": "9af535b40e7c5a8b16b596f0205a71451ec515dd2b9be1ac3f73fdb8d6252770",
+    "bytes": 6497,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\materials\\bc-normal-20261013-01\\source-fragments-v1.json"
+  },
+  {
+    "path": "goals\\bc-normal-20261013-01\\goal-v1.md",
+    "sha256": "eab5f2f7d750dd52bd25710a8b23009090f0ff3c486ca6b214d5f36480e115df",
+    "bytes": 7707,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\goals\\bc-normal-20261013-01\\goal-v1.md"
+  },
+  {
+    "path": "questions\\visible\\bc-normal-20261013-01\\A-v1.md",
+    "sha256": "0b2bcb7cb3c584e20b55bdc6a5c74875d731b98df6273993abfe22ee58349f2c",
+    "bytes": 1411,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\questions\\visible\\bc-normal-20261013-01\\A-v1.md"
+  },
+  {
+    "path": "questions\\visible\\bc-normal-20261013-01\\B-v1.md",
+    "sha256": "b599c6f8668333bbe352ccb136b9fba32d60395c633a8a781e85a6ec07d60857",
+    "bytes": 2574,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\questions\\visible\\bc-normal-20261013-01\\B-v1.md"
+  },
+  {
+    "path": "questions\\visible\\bc-normal-20261013-01\\C-v1.md",
+    "sha256": "969644c31ac31b172aba7aec5cc0089df3e864a07a91c9c2269750725c399814",
+    "bytes": 2433,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\questions\\visible\\bc-normal-20261013-01\\C-v1.md"
+  },
+  {
+    "path": "questions\\teacher-reference\\bc-normal-20261013-01\\A-reference-v1.md",
+    "sha256": "888a7d36d492c625ecd808b909d1505efbe98c186f9f7000793059ecf776ddd9",
+    "bytes": 3211,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\questions\\teacher-reference\\bc-normal-20261013-01\\A-reference-v1.md"
+  },
+  {
+    "path": "questions\\teacher-reference\\bc-normal-20261013-01\\B-reference-v1.md",
+    "sha256": "c36fdf1b7d8606c9799542a286630031713b91a720bc201ea51478384d4c3d8b",
+    "bytes": 5399,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\questions\\teacher-reference\\bc-normal-20261013-01\\B-reference-v1.md"
+  },
+  {
+    "path": "questions\\teacher-reference\\bc-normal-20261013-01\\C-reference-v1.md",
+    "sha256": "828cdebfb7c6b1d87fa1882b306120eb21ad9b8c17b8b7ddc23313fbcd4c1eb9",
+    "bytes": 5482,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\questions\\teacher-reference\\bc-normal-20261013-01\\C-reference-v1.md"
+  },
+  {
+    "path": "questions\\backup\\bc-normal-20261013-01\\supports-v1.md",
+    "sha256": "d786c6837c49299c405f7314b5ec7a5be87648551fe62e5e1bb57a0d76255359",
+    "bytes": 4685,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\questions\\backup\\bc-normal-20261013-01\\supports-v1.md"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\ack-review-return-v1-submitted.json",
+    "sha256": "b46f59b3bed407be618c7ef6ff8bfa79ba0c884dd511d5448d065efd11f48f60",
+    "bytes": 172,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\ack-review-return-v1-submitted.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\ack-review-return-v1.json",
+    "sha256": "c2f8b884111cc2b6efa323269ac9be92b3a3e9a27d0d4b4d8649298766385031",
+    "bytes": 135,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\ack-review-return-v1.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\ack-start-reviews-v1-submitted.json",
+    "sha256": "473ed583585de79e7cae4ee6675ae734e05594926f207e648a055d9c0b4d969d",
+    "bytes": 172,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\ack-start-reviews-v1-submitted.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\ack-start-reviews-v1.json",
+    "sha256": "7159bfb4f28df72f66bfa9d5bae2c957e30aeda5c5c43d1d88948ec8cc8af91a",
+    "bytes": 135,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\ack-start-reviews-v1.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\read-boundary-v1.json",
+    "sha256": "b77ab5ffb182c50a8a91e1ccf3acfd65309b230cf57277a36a8ab510ff7934d7",
+    "bytes": 8676,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\read-boundary-v1.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\review-questions-v1.md",
+    "sha256": "2d62ae67a27662b0010d47c9522c322921dde65f8bc604560d5289a53f5ddfa1",
+    "bytes": 8785,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\review-questions-v1.md"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\review-return-v1.md",
+    "sha256": "982e6ba442846035a4ad80c54196b3c6de6342379b841d335013794e50afe5aa",
+    "bytes": 2080,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\review-return-v1.md"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\review-v1.md",
+    "sha256": "9430635c709226a3ee940d3f110d4c192d11199822b382b1def7e0f329c956b8",
+    "bytes": 10287,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\review-v1.md"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\start-design-review-v1-submitted.json",
+    "sha256": "74ad51c3c50f706d0ab2a713973b0c6908fabfd57c1595a64775a6e5ac7b54c2",
+    "bytes": 148,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\start-design-review-v1-submitted.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\start-design-review-v1.json",
+    "sha256": "12610f5d0bd77b1d3d8f36dbd29e5fb0db017d77c6d1b7c3bfe2c42a34650b40",
+    "bytes": 112,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\start-design-review-v1.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\start-material-review-v1-submitted.json",
+    "sha256": "597a5ec17a10eb31bd8d01e0fa499447db7de8cfc0100188739fa5a16da90af5",
+    "bytes": 152,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\start-material-review-v1-submitted.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\start-material-review-v1.json",
+    "sha256": "cc718285887cea05c1aa42baba68ce8ba34941037af83ae18360f3503a06c86e",
+    "bytes": 116,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\start-material-review-v1.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\submit-design-review-v1-submitted.json",
+    "sha256": "8f287cf0fe6174a6fdd26c1cbb5ea74237d0c2b2ef56675766b5451414023050",
+    "bytes": 1249,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\submit-design-review-v1-submitted.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\submit-design-review-v1.json",
+    "sha256": "c52f77398ac5dd5dae735393b7c2a09013a85a3837639528bf87ddb32755c112",
+    "bytes": 1202,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\submit-design-review-v1.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\submit-material-review-v1-submitted.json",
+    "sha256": "2cd7019fea57ee55d044423831d50c2c1e8c68157254c598b5330a57eccdabee",
+    "bytes": 1323,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\submit-material-review-v1-submitted.json"
+  },
+  {
+    "path": "assessment\\bc-normal-20261013-01\\submit-material-review-v1.json",
+    "sha256": "cf350aaec5372b25d575d64ca31de3f26e93ce5b4fd37962127e0936a900cccd",
+    "bytes": 1276,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\assessment\\bc-normal-20261013-01\\submit-material-review-v1.json"
+  },
+  {
+    "path": "plan\\bc-normal-20261013-01\\plan-v1.md",
+    "sha256": "5e8ce32945700f6e8e13b428d25883ff7eef8916175efb89200c2f014a0b1ac7",
+    "bytes": 4782,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\plan\\bc-normal-20261013-01\\plan-v1.md"
+  },
+  {
+    "path": "code\\bc-normal-20261013-01\\scalar_check_v1.py",
+    "sha256": "e19334decf4a55466e24d97883e603c7c447d624eb4dfbaa03ce8fcb2e6f2443",
+    "bytes": 3009,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\code\\bc-normal-20261013-01\\scalar_check_v1.py"
+  },
+  {
+    "path": "sessions\\2026-10-13-normal-prep-01\\checkpoint.md",
+    "sha256": "e7a8f34f1dc5e9d9e969faa448e9becd5a79573ed949371bacc0378aaa104b0a",
+    "bytes": 1771,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\sessions\\2026-10-13-normal-prep-01\\checkpoint.md"
+  },
+  {
+    "path": "sessions\\2026-10-13-normal-prep-01\\raw\\request-001.txt",
+    "sha256": "9faaccf5378ea4bfae54a0a5b8070716576cb86ee0a25d510f3e04dfe0509920",
+    "bytes": 4094,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\sessions\\2026-10-13-normal-prep-01\\raw\\request-001.txt"
+  },
+  {
+    "path": "sessions\\2026-10-13-normal-prep-01\\session.md",
+    "sha256": "d97e3288cd0f117fa78ffbcb1dc51184542a551b498b3c1562723b35baf33c76",
+    "bytes": 1134,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\sessions\\2026-10-13-normal-prep-01\\session.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\authorization.md",
+    "sha256": "25255f41242877eb0417a9dc10d1cffc1e5e986d3fe9ce87584bcb98f391d873",
+    "bytes": 721,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\authorization.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ack-final-submitted.json",
+    "sha256": "b1d37d6d8641262e39b526ca32947400b4c180f841762af8417bad6bab4a1a80",
+    "bytes": 161,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-final-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ack-final.json",
+    "sha256": "a0206c8fbe036fe0450f77a135ae31f1b516431af4a149e9bc028bad6ef4806e",
+    "bytes": 124,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-final.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ack-initial-submitted.json",
+    "sha256": "d5fef4ea7ddcbd780c7c469183379563c66bf90fa8626e3759b056c38dee4d20",
+    "bytes": 159,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-initial-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ack-initial.json",
+    "sha256": "fb3d5fae4778065d4f7af93c78864bd74325ff633c3d7f7de39bf88f03e9ab2c",
+    "bytes": 122,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-initial.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ack-research-return-submitted.json",
+    "sha256": "c02d4222c2ed4c42b5e789ba3513b927826356bfe71cb0fdc885a88001b142d4",
+    "bytes": 171,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-research-return-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ack-research-return.json",
+    "sha256": "151d0a55281b3fd70078556431ff3ec21e253e3b0edc1a9bddc36998f0ac7548",
+    "bytes": 134,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-research-return.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ack-through-material-submitted.json",
+    "sha256": "17ee2bb9c11a1c2860221f20d9d52c5d1cea50a992227133543ab7c2c3a473b8",
+    "bytes": 172,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-through-material-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ack-through-material.json",
+    "sha256": "06922c099e0d1983de764b5d2f84b95a2451f3135b211edb24625963c4b39fa5",
+    "bytes": 135,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ack-through-material.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\adopt-research-v1-submitted.json",
+    "sha256": "58ee6984cf16e75157ce95ad0cc56ec9d877dcb9e42904a908de2f7b7cccb16e",
+    "bytes": 636,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\adopt-research-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\adopt-research-v1.json",
+    "sha256": "ef3ef25c91e42f8f8a37e647bfb01dd844f184f15bdaaa8d7351e06def41bc13",
+    "bytes": 577,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\adopt-research-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\ack-start-design-v1-submitted.json",
+    "sha256": "240c09129287978941ca9c493f1a8ea329b33bd49eed8d136b3f2b29392ab5cf",
+    "bytes": 166,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\ack-start-design-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\ack-start-design-v1.json",
+    "sha256": "be1dbb4be6053a197fd3703eb3c7c19adbd5171c54215831e9e1c1bd54d53304",
+    "bytes": 129,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\ack-start-design-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\ack-submit-design-v1-submitted.json",
+    "sha256": "c666e1a1158e152700064363531ca4d432d07189018c9283dff94cac12c59d87",
+    "bytes": 167,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\ack-submit-design-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\ack-submit-design-v1.json",
+    "sha256": "adcdc29030e0be0c75fa34eaa611c0f60fc5e742c5aa4ec0e6a53313b39368ae",
+    "bytes": 130,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\ack-submit-design-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\confirm-design-v1-submitted.json",
+    "sha256": "a78eff72a9adc420129a5f48dcbc7b347f73b3d96670064c327ddcd49298a9a7",
+    "bytes": 876,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\confirm-design-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\confirm-design-v1.json",
+    "sha256": "c14a3a44c7e9c3d126645cc26027e499f71feb0cccf133f9794288bb258ca768",
+    "bytes": 810,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\confirm-design-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\start-design-v1-submitted.json",
+    "sha256": "ac4500af7fbd8746b895ac430ac2ac896a38e0fd751c3d4077c2b976991fe492",
+    "bytes": 134,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\start-design-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\start-design-v1.json",
+    "sha256": "ffdf4ae35995fa2005ea6bf1e860a292107911e6d92cd0e0deb3751bf2df8e16",
+    "bytes": 98,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\start-design-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\submit-design-v1-submitted.json",
+    "sha256": "4cfcd292b5ddf4befdb7027bcc5ca3f0c61caa570447de384d175d2d5e694167",
+    "bytes": 251,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\submit-design-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\submit-design-v1.json",
+    "sha256": "491f01238470b5a0e36ffa69a24e221a81233c4cd6be990df1768d258fd05069",
+    "bytes": 203,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\submit-design-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-material-start-v1-submitted.json",
+    "sha256": "4e7cd7d663e0bff02ee7f507396ad44ac755bb5b715dcc83735b49300ac71138",
+    "bytes": 173,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-material-start-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-material-start-v1.json",
+    "sha256": "813a91149ff338597c7954e56196043071f28e21a8faac8ac345e3dd5bb5733b",
+    "bytes": 136,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-material-start-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-material-submit-v1-submitted.json",
+    "sha256": "0c32492db942cd08e8246a06bb8df299b8ff75fd1cef1300648c6af4cd96d606",
+    "bytes": 174,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-material-submit-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-material-submit-v1.json",
+    "sha256": "3a6b63ed73c7c06182007ab33be69df1339289007fba3584f09434e37626cf85",
+    "bytes": 137,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-material-submit-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-research-submit-v1-submitted.json",
+    "sha256": "749cfbefd361210627ce9822f04ab9afe7dcca3a2e1c3f079b034d86052718f2",
+    "bytes": 174,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-research-submit-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-research-submit-v1.json",
+    "sha256": "8bb784b8c14f8cc653c32fb3ecdd2131f75e2c8351b48398fea7a801daa28434",
+    "bytes": 137,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-research-submit-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-start-research-v1-submitted.json",
+    "sha256": "299ff17b4a408753a8e6bc4ca073d7dbc1afdb66d42c1c363bad24066c79268f",
+    "bytes": 173,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-start-research-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-start-research-v1.json",
+    "sha256": "b490596d56b83496d7740aaa1dd8c0038e6a84aa445f0d1a78cc8264524f9aef",
+    "bytes": 136,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-ack-start-research-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-confirm-material-v1-submitted.json",
+    "sha256": "170cc804d3e75e158f249f50708512e29493926428189996a79826542e446fe7",
+    "bytes": 1449,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-confirm-material-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-confirm-material-v1.json",
+    "sha256": "7c6efb8107953d955f8a9a4902d428ae025d2a0d630ee346db216e28023be87e",
+    "bytes": 1382,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-confirm-material-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-confirm-research-v1-submitted.json",
+    "sha256": "204cb8d55456f303fa163207401976f1754e6e23708950023911c5f8e70cb059",
+    "bytes": 1094,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-confirm-research-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-confirm-research-v1.json",
+    "sha256": "3e1eecccec7cd6fdaefc3b4632065f49f6ae4071c2ffaf5515e981c648a2af40",
+    "bytes": 1028,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-confirm-research-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-material-v1-submitted.json",
+    "sha256": "2b123c3f70d51dbdf633eec70b8173aff7bc5c63e485903cb4f272437d3c9110",
+    "bytes": 138,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-material-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-material-v1.json",
+    "sha256": "1fd7cf101fbd8291e984d0eb3a2904197f0573580889b2cb04a40f36d62fb805",
+    "bytes": 102,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-material-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-research-v1-submitted.json",
+    "sha256": "261f819055a4561acb3e0c39156d2a3fe89e54d55e2a0eee388e85ac7c3b52dc",
+    "bytes": 138,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-research-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-research-v1.json",
+    "sha256": "1ffa1d6c3c39b9fdc8dbef13289ecc489e4743ecde92ad569798cb878ad973ab",
+    "bytes": 102,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-start-research-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-submit-material-v1-submitted.json",
+    "sha256": "08a276ca2571fe5d5e34fb08616972d14a434cd0423a41b470b90cab790edfb4",
+    "bytes": 263,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-submit-material-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-submit-material-v1.json",
+    "sha256": "708352e138cdfdeb95f4f135e56c6f1482cd3af1eeda19c547e157c97131f61e",
+    "bytes": 215,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-submit-material-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-submit-research-v1-submitted.json",
+    "sha256": "2813e18a4b55c6072b6cabf6ae3ad1620993cf0dd8ceef5733c42e413364ade2",
+    "bytes": 263,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-submit-research-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-submit-research-v1.json",
+    "sha256": "c035e37668fb8f6f9fc85083554d2a13ec6f098151aa6f5ef09568050526c3b7",
+    "bytes": 215,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\ag2-submit-research-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\final-adopt-v1-submitted.json",
+    "sha256": "71f8112a0b980edbbd675db3375566d1bf247a169d2de015508b9866311842ca",
+    "bytes": 1161,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\final-adopt-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\final-adopt-v1.json",
+    "sha256": "ecc4e7da48f8bfea5f7f31fde3101e2f5bf74059ae70ae53282b9415bc3f6042",
+    "bytes": 1081,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\final-adopt-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag1-design-v1-submitted.json",
+    "sha256": "98e8ef58f50de48fa10ec8e975bf2592c56a9ecfe85f4d9826cc3552901b5535",
+    "bytes": 620,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag1-design-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag1-design-v1.json",
+    "sha256": "2a89de00c53fe658987a0a712d8e402235e11616f60edf2217f46ff555bedcb2",
+    "bytes": 562,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag1-design-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-material-v1-submitted.json",
+    "sha256": "80a8ebc070dc25cce2fea5d5674814ac9441461ae7f0db1202fe957f6865b2fa",
+    "bytes": 1116,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-material-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-material-v1.json",
+    "sha256": "32013c02bb1b74c14223305c7ecf35000292b406974c870bcd12031b5636c76e",
+    "bytes": 1048,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-material-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-research-v1-submitted.json",
+    "sha256": "ac5fbed64b14b7c2232a22102c53bf5cc135eeeea68a5d05dc442fdf6341de53",
+    "bytes": 448,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-research-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-research-v1.json",
+    "sha256": "9300b4b77d8e57c30c336a53cc4b48fbf21bf6c8090a2a9f71df4e44c9170225",
+    "bytes": 399,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag2-research-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-design-review-v1-submitted.json",
+    "sha256": "28113bc1f095bccca2c7853cdde7e1b3c883edb94e3b6bf8f6c1c0167ea17042",
+    "bytes": 358,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-design-review-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-design-review-v1.json",
+    "sha256": "3cf9eaf7978a65602445f95f87886fce77d8d73dee6fe5c76b39abf328b35324",
+    "bytes": 312,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-design-review-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-material-review-v1-submitted.json",
+    "sha256": "e25cb1de1aa6bf77fc873d479891cd7977ee8833b51fc71b321ecd65db207323",
+    "bytes": 364,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-material-review-v1-submitted.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-material-review-v1.json",
+    "sha256": "16fd6690985f0cb58261fe89e235de2b4cfdff81d43dd02e55dec1af156d5f5d",
+    "bytes": 318,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\requests\\register-ag3-material-review-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG1-research-v1.md",
+    "sha256": "3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe",
+    "bytes": 12675,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG1-research-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG2\\EMB-BC-NORMAL-DESIGN-20261013-01-v1.md",
+    "sha256": "9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5",
+    "bytes": 21844,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG2\\EMB-BC-NORMAL-DESIGN-20261013-01-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG2\\EMB-BC-NORMAL-RESEARCH-20261013-01-v1.md",
+    "sha256": "3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe",
+    "bytes": 12675,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG2\\EMB-BC-NORMAL-RESEARCH-20261013-01-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG2\\material-v1-snapshot.json",
+    "sha256": "f858a487e157440d25fc28ff45dc6d9aaff5fb3fcfb762c822568a8d0dcce462",
+    "bytes": 46680,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG2\\material-v1-snapshot.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\artifacts\\bc-normal-20261013-01\\design\\material-clarification-001-v1.md",
+    "sha256": "6ab66a133658cefa4a285832f125e28a51d8c401279fec6d9f6c387de8472793",
+    "bytes": 4208,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\artifacts\\bc-normal-20261013-01\\design\\material-clarification-001-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\artifacts\\bc-normal-20261013-01\\disciplinary\\mechanism-notes-v1.md",
+    "sha256": "7046cf8d5a5f7d5c3a2b71230e058ebac44c83e8b06d324d65abb3653300d91d",
+    "bytes": 4810,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\artifacts\\bc-normal-20261013-01\\disciplinary\\mechanism-notes-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\artifacts\\bc-normal-20261013-01\\material\\manifest-v1.json",
+    "sha256": "42cf94a0c586119eb23758fad9c47869be79b404b58e99ba7afdfd6182b00b1f",
+    "bytes": 3549,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\artifacts\\bc-normal-20261013-01\\material\\manifest-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\code\\bc-normal-20261013-01\\scalar_check_v1.py",
+    "sha256": "e19334decf4a55466e24d97883e603c7c447d624eb4dfbaa03ce8fcb2e6f2443",
+    "bytes": 3009,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\code\\bc-normal-20261013-01\\scalar_check_v1.py"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-input-v1.json",
+    "sha256": "c4b5804db5f93447fa90d5c89f62e6667d987c3f7bafb09c0c72ab42acb1d31d",
+    "bytes": 476,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-input-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-output-v1.json",
+    "sha256": "35450638cb3e311dceee8d979e8eb911a9c6cf94604cb83d2bc9ae669faf345e",
+    "bytes": 2479,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-output-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\goals\\bc-normal-20261013-01\\goal-v1.md",
+    "sha256": "eab5f2f7d750dd52bd25710a8b23009090f0ff3c486ca6b214d5f36480e115df",
+    "bytes": 7707,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\goals\\bc-normal-20261013-01\\goal-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\materials\\bc-normal-20261013-01\\01-loop-and-feedback-v1.md",
+    "sha256": "20809341d2daf2abe557ebb101c917b2ba27abeeb1aefe89354a3f9b38e3b407",
+    "bytes": 5489,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\materials\\bc-normal-20261013-01\\01-loop-and-feedback-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\materials\\bc-normal-20261013-01\\02-evidence-and-diagnosis-v1.md",
+    "sha256": "5afdfd87446d22fdc359e124b13b9136da7e6e8c8560fb517ae6e7ceb9f913c9",
+    "bytes": 5161,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\materials\\bc-normal-20261013-01\\02-evidence-and-diagnosis-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\materials\\bc-normal-20261013-01\\03-data-information-and-modes-v1.md",
+    "sha256": "162bc25cda3dc0a3515809d0e2db6f379c69b6806b7921de04679c160e4e33e0",
+    "bytes": 3841,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\materials\\bc-normal-20261013-01\\03-data-information-and-modes-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\materials\\bc-normal-20261013-01\\source-fragments-v1.json",
+    "sha256": "9af535b40e7c5a8b16b596f0205a71451ec515dd2b9be1ac3f73fdb8d6252770",
+    "bytes": 6497,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\materials\\bc-normal-20261013-01\\source-fragments-v1.json"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\plan\\bc-normal-20261013-01\\plan-v1.md",
+    "sha256": "5e8ce32945700f6e8e13b428d25883ff7eef8916175efb89200c2f014a0b1ac7",
+    "bytes": 4782,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\plan\\bc-normal-20261013-01\\plan-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\backup\\bc-normal-20261013-01\\supports-v1.md",
+    "sha256": "d786c6837c49299c405f7314b5ec7a5be87648551fe62e5e1bb57a0d76255359",
+    "bytes": 4685,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\backup\\bc-normal-20261013-01\\supports-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\teacher-reference\\bc-normal-20261013-01\\A-reference-v1.md",
+    "sha256": "888a7d36d492c625ecd808b909d1505efbe98c186f9f7000793059ecf776ddd9",
+    "bytes": 3211,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\teacher-reference\\bc-normal-20261013-01\\A-reference-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\teacher-reference\\bc-normal-20261013-01\\B-reference-v1.md",
+    "sha256": "c36fdf1b7d8606c9799542a286630031713b91a720bc201ea51478384d4c3d8b",
+    "bytes": 5399,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\teacher-reference\\bc-normal-20261013-01\\B-reference-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\teacher-reference\\bc-normal-20261013-01\\C-reference-v1.md",
+    "sha256": "828cdebfb7c6b1d87fa1882b306120eb21ad9b8c17b8b7ddc23313fbcd4c1eb9",
+    "bytes": 5482,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\teacher-reference\\bc-normal-20261013-01\\C-reference-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\visible\\bc-normal-20261013-01\\A-v1.md",
+    "sha256": "0b2bcb7cb3c584e20b55bdc6a5c74875d731b98df6273993abfe22ee58349f2c",
+    "bytes": 1411,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\visible\\bc-normal-20261013-01\\A-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\visible\\bc-normal-20261013-01\\B-v1.md",
+    "sha256": "b599c6f8668333bbe352ccb136b9fba32d60395c633a8a781e85a6ec07d60857",
+    "bytes": 2574,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\visible\\bc-normal-20261013-01\\B-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\visible\\bc-normal-20261013-01\\C-v1.md",
+    "sha256": "969644c31ac31b172aba7aec5cc0089df3e864a07a91c9c2269750725c399814",
+    "bytes": 2433,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\attachments-v1\\questions\\visible\\bc-normal-20261013-01\\C-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\design-review-v1\\design-v1.md",
+    "sha256": "9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5",
+    "bytes": 21844,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\design-review-v1\\design-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\design-review-v1\\research-v1.md",
+    "sha256": "3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe",
+    "bytes": 12675,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\design-review-v1\\research-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\material-review-v1\\design-v1.md",
+    "sha256": "9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5",
+    "bytes": 21844,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\material-review-v1\\design-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\material-review-v1\\material-use-v1.md",
+    "sha256": "4e0ba1f114c1fee6d238c65c83c950343ff10e0762832475333b08acbec72457",
+    "bytes": 13406,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\material-review-v1\\material-use-v1.md"
+  },
+  {
+    "path": "coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\material-review-v1\\research-v1.md",
+    "sha256": "3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe",
+    "bytes": 12675,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\material-review-v1\\research-v1.md"
+  },
+  {
+    "path": "experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-input-v1.json",
+    "sha256": "c4b5804db5f93447fa90d5c89f62e6667d987c3f7bafb09c0c72ab42acb1d31d",
+    "bytes": 476,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-input-v1.json"
+  },
+  {
+    "path": "experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-output-v1.json",
+    "sha256": "35450638cb3e311dceee8d979e8eb911a9c6cf94604cb83d2bc9ae669faf345e",
+    "bytes": 2479,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-output-v1.json"
+  },
+  {
+    "path": "code\\coordination\\normal-prep-20261013-01\\archive_index.py",
+    "sha256": "7c0a2f72b761cf6b2dfd186f306cbdcd45a2280e221d70a47efc1b99445f6b2f",
+    "bytes": 4029,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\code\\coordination\\normal-prep-20261013-01\\archive_index.py"
+  },
+  {
+    "path": "code\\coordination\\normal-prep-20261013-01\\observe.py",
+    "sha256": "d493aca27c6518b631b0129d7966e2cc25a29b4582a70f809b1948331ea3975c",
+    "bytes": 3322,
+    "archived_path": "experiments\\coordinator-normal-prep-20261013-01\\file-snapshots\\code\\coordination\\normal-prep-20261013-01\\observe.py"
+  }
+]

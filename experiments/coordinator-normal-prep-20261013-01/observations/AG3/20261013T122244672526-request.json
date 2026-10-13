@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-13T12:22:44.672526+00:00",
+  "role": "AG3",
+  "kind": "request",
+  "action": "review",
+  "source_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\assessment\\bc-normal-20261013-01\\submit-material-review-v1.json",
+  "submitted_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\assessment\\bc-normal-20261013-01\\submit-material-review-v1-submitted.json",
+  "payload": {
+    "operation_id": "normal-prep-submit-ag3-material-review-v1",
+    "task_id": "normal-prep-ag3-material-review-v1",
+    "receipt_id": "normal-prep-ag3-material-receipt-v1",
+    "scope": [
+      "BC-first-stage"
+    ],
+    "intended_use": "teaching",
+    "outcome": "supported",
+    "directly_checked_scope": [
+      "BC-first-stage"
+    ],
+    "inherited_scope": [],
+    "rationale": "实际首次整体专业审查意见见 assessment/bc-normal-20261013-01/review-v1.md revision1，SHA256 9430635c709226a3ee940d3f110d4c192d11199822b382b1def7e0f329c956b8。对start锁定 EMB-BC-NORMAL-MATERIAL-20261013-01 revision1（4e0ba1f114c1fee6d238c65c83c950343ff10e0762832475333b08acbec72457）直接核查 teaching/BC-first-stage：manifest v1与实际14项成品、讲解/示范、A/B/C、整体多解参考及备用支持兑现目标，专业条件、数值、帮助与剩余操作边界成立，无必要返修。包含固定material-clarification-001-v1；依据research v1及明确暂定exact design v1，input_not_adopted这一协调条件保留，不把候选设计称采用。支持已讲原理/允许资源下的有限准备，未授课、无用户表现，不支持自主发现、真实效果或稳定性。正式使用待AG0对相容design/material v1核回执及预期指针整组采用。",
+    "expected_state_revision": 47
+  }
+}

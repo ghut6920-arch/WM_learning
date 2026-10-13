@@ -1,0 +1,92 @@
+{
+  "id": "EMB-BC-NORMAL-MATERIAL-FILES-20261013-01",
+  "revision": 1,
+  "owner": "AG2",
+  "purpose": "Immutable local material bytes; no independently editable adoption pointers",
+  "files": [
+    {
+      "path": "materials/bc-normal-20261013-01/01-loop-and-feedback-v1.md",
+      "revision": 1,
+      "sha256": "20809341d2daf2abe557ebb101c917b2ba27abeeb1aefe89354a3f9b38e3b407",
+      "origin": "generated_material"
+    },
+    {
+      "path": "materials/bc-normal-20261013-01/02-evidence-and-diagnosis-v1.md",
+      "revision": 1,
+      "sha256": "5afdfd87446d22fdc359e124b13b9136da7e6e8c8560fb517ae6e7ceb9f913c9",
+      "origin": "generated_material"
+    },
+    {
+      "path": "materials/bc-normal-20261013-01/03-data-information-and-modes-v1.md",
+      "revision": 1,
+      "sha256": "162bc25cda3dc0a3515809d0e2db6f379c69b6806b7921de04679c160e4e33e0",
+      "origin": "generated_material"
+    },
+    {
+      "path": "questions/visible/bc-normal-20261013-01/A-v1.md",
+      "revision": 1,
+      "sha256": "0b2bcb7cb3c584e20b55bdc6a5c74875d731b98df6273993abfe22ee58349f2c",
+      "origin": "generated_material"
+    },
+    {
+      "path": "questions/visible/bc-normal-20261013-01/B-v1.md",
+      "revision": 1,
+      "sha256": "b599c6f8668333bbe352ccb136b9fba32d60395c633a8a781e85a6ec07d60857",
+      "origin": "generated_material"
+    },
+    {
+      "path": "questions/visible/bc-normal-20261013-01/C-v1.md",
+      "revision": 1,
+      "sha256": "969644c31ac31b172aba7aec5cc0089df3e864a07a91c9c2269750725c399814",
+      "origin": "generated_material"
+    },
+    {
+      "path": "questions/teacher-reference/bc-normal-20261013-01/A-reference-v1.md",
+      "revision": 1,
+      "sha256": "888a7d36d492c625ecd808b909d1505efbe98c186f9f7000793059ecf776ddd9",
+      "origin": "generated_material"
+    },
+    {
+      "path": "questions/teacher-reference/bc-normal-20261013-01/B-reference-v1.md",
+      "revision": 1,
+      "sha256": "c36fdf1b7d8606c9799542a286630031713b91a720bc201ea51478384d4c3d8b",
+      "origin": "generated_material"
+    },
+    {
+      "path": "questions/teacher-reference/bc-normal-20261013-01/C-reference-v1.md",
+      "revision": 1,
+      "sha256": "828cdebfb7c6b1d87fa1882b306120eb21ad9b8c17b8b7ddc23313fbcd4c1eb9",
+      "origin": "generated_material"
+    },
+    {
+      "path": "questions/backup/bc-normal-20261013-01/supports-v1.md",
+      "revision": 1,
+      "sha256": "d786c6837c49299c405f7314b5ec7a5be87648551fe62e5e1bb57a0d76255359",
+      "origin": "generated_material"
+    },
+    {
+      "path": "code/bc-normal-20261013-01/scalar_check_v1.py",
+      "revision": 1,
+      "sha256": "e19334decf4a55466e24d97883e603c7c447d624eb4dfbaa03ce8fcb2e6f2443",
+      "origin": "generated_material"
+    },
+    {
+      "path": "experiments/bc-normal-20261013-01/teacher-checks/scalar-input-v1.json",
+      "revision": 1,
+      "sha256": "c4b5804db5f93447fa90d5c89f62e6667d987c3f7bafb09c0c72ab42acb1d31d",
+      "origin": "generated_material"
+    },
+    {
+      "path": "experiments/bc-normal-20261013-01/teacher-checks/scalar-output-v1.json",
+      "revision": 1,
+      "sha256": "35450638cb3e311dceee8d979e8eb911a9c6cf94604cb83d2bc9ae669faf345e",
+      "origin": "generated_material"
+    },
+    {
+      "path": "artifacts/bc-normal-20261013-01/design/material-clarification-001-v1.md",
+      "revision": 1,
+      "sha256": "6ab66a133658cefa4a285832f125e28a51d8c401279fec6d9f6c387de8472793",
+      "origin": "generated_material"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "variants": [
+    {
+      "variant": "git_blob",
+      "sha256": "c3cfdb4944dda65787efa495c409d0b7ee9cc1e6a2488bfab929f4a5246e1a18",
+      "matches_initial_hash": false
+    },
+    {
+      "variant": "CRLF_checkout",
+      "sha256": "2eaaa81f2a47e52e0493645036687317a46fa09938fedb51e41cd46e5fdcc3c5",
+      "matches_initial_hash": false
+    },
+    {
+      "variant": "UTF8_BOM_CRLF",
+      "sha256": "d8361e7c5b0df20a06b53a17ff352ba00a3cd6ac65b4f49fbdc797d21c41adb4",
+      "matches_initial_hash": false
+    }
+  ],
+  "method": "explicit git checkout byte variants compared to observed original control hash; no live state mutation"
+}

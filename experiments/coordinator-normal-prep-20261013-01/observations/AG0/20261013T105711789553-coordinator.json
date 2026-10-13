@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-13T10:57:11.789553+00:00",
+  "role": "AG0",
+  "kind": "coordinator",
+  "command": [
+    "E:\\anaconda\\python.exe",
+    "-B",
+    "-X",
+    "utf8",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "--workspace",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+    "--role",
+    "AG0",
+    "execute",
+    "--action",
+    "adopt",
+    "--request-file",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\adopt-research-v1-submitted.json"
+  ],
+  "stdout": "{\n  \"status\": \"committed\",\n  \"state_revision\": 28,\n  \"operation_id\": \"normal-prep-adopt-research-v1\",\n  \"bundle_id\": \"normal-prep-research-adoption-v1\",\n  \"adoption\": \"adopted\",\n  \"members\": [\n    {\n      \"ref\": {\n        \"id\": \"EMB-BC-NORMAL-RESEARCH-20261013-01\",\n        \"revision\": 1\n      },\n      \"scope\": [\n        \"BC-first-stage\"\n      ],\n      \"intended_use\": \"teaching\",\n      \"receipt_ids\": [\n        \"normal-prep-ag2-research-owner-v1\"\n      ]\n    }\n  ],\n  \"affected_downstream\": []\n}\n",
+  "stderr": "",
+  "exit_code": 0
+}

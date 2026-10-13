@@ -1,0 +1,45 @@
+[
+  {
+    "path": "drafts/material-use-draft-001.md",
+    "bytes": 13386,
+    "sha256": "163f3f11dece21c679c2cd2c62620dc7702a75c2cfcccce64ef27596adf729df",
+    "json_valid": null
+  },
+  {
+    "path": "drafts/material-use-draft-002.md",
+    "bytes": 13391,
+    "sha256": "af87d2720fc6a0d551d1361018326a6b17a0eeb3b06c1a7f8e0084b3e18752e8",
+    "json_valid": null
+  },
+  {
+    "path": "material-version-map-v1.json",
+    "bytes": 1547,
+    "sha256": "3161a757432e0c1ca3958db9682faf70666af5d6d3b2891eff5eecc4bd5887db",
+    "json_valid": true,
+    "top_keys": [
+      "role",
+      "kind",
+      "object",
+      "submitted_revision",
+      "versions",
+      "isolation",
+      "professional_feedback"
+    ]
+  },
+  {
+    "path": "material-version-map-correction-001.json",
+    "bytes": 609,
+    "sha256": "1adca936e73b8b97ee826be3fbc33564c27fc6f0db83fa220454241339db6c6e",
+    "json_valid": true,
+    "top_keys": [
+      "role",
+      "kind",
+      "corrects",
+      "reason",
+      "path",
+      "sha256",
+      "basis",
+      "archive_read"
+    ]
+  }
+]

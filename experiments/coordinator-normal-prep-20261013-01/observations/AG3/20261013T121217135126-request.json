@@ -1,0 +1,13 @@
+{
+  "recorded_at": "2026-10-13T12:12:17.135126+00:00",
+  "role": "AG3",
+  "kind": "request",
+  "action": "start",
+  "source_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\assessment\\bc-normal-20261013-01\\start-design-review-v1.json",
+  "submitted_request": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\assessment\\bc-normal-20261013-01\\start-design-review-v1-submitted.json",
+  "payload": {
+    "operation_id": "normal-prep-start-ag3-design-review-v1",
+    "task_id": "normal-prep-ag3-design-review-v1",
+    "expected_state_revision": 42
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "operation_id": "normal-prep-confirm-ag2-material-v1",
+  "ref": {
+    "id": "EMB-BC-NORMAL-MATERIAL-20261013-01",
+    "revision": 1
+  },
+  "receipt_id": "normal-prep-ag2-material-owner-v1",
+  "scope": [
+    "BC-first-stage"
+  ],
+  "intended_use": "teaching",
+  "outcome": "supported",
+  "allow_provisional": true,
+  "rationale": "三份讲解、完整标量示范与教师实际数值、A/B/C分区题面、备用支持和可核合法多解教师参考已写后读回。按R1–R4核执行链/评估对象、反馈恢复中间推导、相容竞争解释和合法预测/对照、新增证据更新及数据/信息/模式作用点；核数值表与方程、标签来源、匹配内部状态/物理时长、MSE和可行集条件及帮助代做范围。固定14项manifest哈希重核无不匹配；AG1扰动物体/轴回问决定已固定读回并进入成品，未改变登记design v1。有限Python3.12.3教师核验仅支持四实例数值/公式分支，不支持真实机器人效果/用户能力。此确认仅对input_not_adopted的exact design v1提供显式暂定支持：只生产候选，设计不是已采用；最终教学仍需适用AG1/AG2确认、AG3设计/材料审查和AG0相容整组采用。不得以allow_provisional掩盖其他输入问题；来源原图及远端PDF哈希不可获得、完整证明/附录和真实实验未核或未执行。本次未展示/未有原答。",
+  "expected_state_revision": 38
+}

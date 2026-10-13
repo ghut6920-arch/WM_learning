@@ -1,0 +1,11 @@
+--- experiments\coordinator-normal-prep-20261013-01\observations\AG2\drafts\material-use-draft-001.md
++++ experiments\coordinator-normal-prep-20261013-01\observations\AG2\drafts\material-use-draft-002.md
+@@ -52,7 +52,7 @@
+ 
+ ## verification：内容正确性与教学功能
+ 
+-content.status=supported_for_declared_scope，reviewer=AG2；用途为teaching/BC-first-stage候选成品。实际原件/定义对照、有限代数推导、逐项数值核算及题面—参考—帮助检查分别成立；全部正文已读回。校验字节不证明学科正确，教师自查不冒称盲评；最终正常AG3审查尚待执行。
++content.status=supported，reviewer=AG2；支持范围为下表所声明的teaching/BC-first-stage候选成品。实际原件/定义对照、有限代数推导、逐项数值核算及题面—参考—帮助检查分别成立；全部正文已读回。校验字节不证明学科正确，教师自查不冒称盲评；最终正常AG3审查尚待执行。
+ 
+ | 目标/whole_obligations | 实际成品怎样承担联系、学习者还做什么 | 核验锚点与限制 |
+ |---|---|---|

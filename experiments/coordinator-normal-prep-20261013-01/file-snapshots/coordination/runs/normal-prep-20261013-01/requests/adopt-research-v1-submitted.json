@@ -1,0 +1,28 @@
+{
+  "operation_id": "normal-prep-adopt-research-v1",
+  "bundle_id": "normal-prep-research-adoption-v1",
+  "expected_pointers": [
+    {
+      "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+      "intended_use": "teaching",
+      "scope": "BC-first-stage",
+      "revision": null
+    }
+  ],
+  "members": [
+    {
+      "ref": {
+        "id": "EMB-BC-NORMAL-RESEARCH-20261013-01",
+        "revision": 1
+      },
+      "scope": [
+        "BC-first-stage"
+      ],
+      "intended_use": "teaching",
+      "receipt_ids": [
+        "normal-prep-ag2-research-owner-v1"
+      ]
+    }
+  ],
+  "expected_state_revision": 27
+}

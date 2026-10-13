@@ -1,0 +1,13 @@
+{
+  "role": "AG2",
+  "kind": "observable_material_version_map",
+  "object": "EMB-BC-NORMAL-MATERIAL-20261013-01",
+  "submitted_revision": "not_yet_submitted_at_record_creation",
+  "versions": [
+    {"sequence": 1, "path": "experiments/coordinator-normal-prep-20261013-01/observations/AG2/drafts/material-use-draft-001.md", "sha256": "163f3f11dece21c679c2cd2c62620dc7702a75c2cfcccc e64ef27596adf729df", "status": "initial_unsubmitted_observable_draft"},
+    {"sequence": 2, "path": "experiments/coordinator-normal-prep-20261013-01/observations/AG2/drafts/material-use-draft-002.md", "sha256": "af87d2720fc6a0d551d1361018326a6b17a0eeb3b06c1a7f8e0084b3e18752e8", "change": "Replaced noncontract status phrase with supported plus explicit scope; no teaching content changed"},
+    {"sequence": 3, "path": "artifacts/bc-normal-20261013-01/material/material-use-v1.md", "sha256": "4e0ba1f114c1fee6d238c65c83c950343ff10e0762832475333b08acbec72457", "change": "Changed absolute-rho notation inside table to words to preserve Markdown column count"}
+  ],
+  "isolation": "Earlier drafts moved into process archive and not read from there; submitted versions were not overwritten",
+  "professional_feedback": {"input": "Actual AG2 question to AG1 on missing perturbation object/axis", "output": "artifacts/bc-normal-20261013-01/design/material-clarification-001-v1.md", "revision": 1, "sha256": "6ab66a133658cefa4a285832f125e28a51d8c401279fec6d9f6c387de8472793", "effect": "Fixed B/C perturbation specification in actual material v1; design v1 unchanged"}
+}

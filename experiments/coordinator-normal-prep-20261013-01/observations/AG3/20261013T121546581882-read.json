@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:15:46.581882+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\experiments\\bc-normal-20261013-01\\teacher-checks\\scalar-input-v1.json",
+  "sha256": "c4b5804db5f93447fa90d5c89f62e6667d987c3f7bafb09c0c72ab42acb1d31d",
+  "bytes": 476,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\c4b5804db5f93447fa90d5c89f62e6667d987c3f7bafb09c0c72ab42acb1d31d"
+}

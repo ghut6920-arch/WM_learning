@@ -1,0 +1,9 @@
+{
+  "operation_id": "normal-prep-submit-ag2-research-v1",
+  "task_id": "normal-prep-ag2-research-v1",
+  "path": "artifacts/bc-normal-20261013-01/disciplinary/research-v1.md",
+  "changed_scope": [
+    "BC-first-stage"
+  ],
+  "expected_state_revision": 23
+}

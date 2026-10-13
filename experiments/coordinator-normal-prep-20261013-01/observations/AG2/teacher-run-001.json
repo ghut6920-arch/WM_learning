@@ -1,0 +1,12 @@
+{
+  "role": "AG2",
+  "kind": "teacher_numerical_execution",
+  "command": "python -B -X utf8 code/bc-normal-20261013-01/scalar_check_v1.py --input experiments/bc-normal-20261013-01/teacher-checks/scalar-input-v1.json --output experiments/bc-normal-20261013-01/teacher-checks/scalar-output-v1.json",
+  "observed_stdout": "{\"saved\": \"experiments/bc-normal-20261013-01/teacher-checks/scalar-output-v1.json\", \"cases\": 4}",
+  "observed_completion": "The command tool returned Script completed and the output was then read back using observe.py read AG2",
+  "input_ref": "experiments/bc-normal-20261013-01/teacher-checks/scalar-input-v1.json",
+  "output_ref": "experiments/bc-normal-20261013-01/teacher-checks/scalar-output-v1.json",
+  "code_ref": "code/bc-normal-20261013-01/scalar_check_v1.py",
+  "scope": "Finite teacher numerical validation only; no user or robot run",
+  "elapsed_time": "not recorded in this observation; do not infer"
+}

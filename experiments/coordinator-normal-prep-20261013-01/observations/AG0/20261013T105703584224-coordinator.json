@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-13T10:57:03.584224+00:00",
+  "role": "AG0",
+  "kind": "coordinator",
+  "command": [
+    "E:\\anaconda\\python.exe",
+    "-B",
+    "-X",
+    "utf8",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "--workspace",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+    "--role",
+    "AG0",
+    "brief"
+  ],
+  "stdout": "协作状态 · revision 26\n\n| 任务或产物 | 状态 | 下一责任人 | 后续动作 |\n|---|---|---|---|\n| EMB-BC-CLOSED-LOOP-DISCIPLINARY-20261012 v2 | Adopted | — | 可按已采用范围使用 |\n| EMB-BC-CLOSED-LOOP-SOURCES-20261012 v2 | Adopted | — | 可按已采用范围使用 |\n| EMB-BC-NORMAL-RESEARCH-20261013-01 v1 | Verified | AG0 | 等待AG0决定是否采用 |\n| EMB-D-BC-CLOSED-LOOP-20261012 v1 | Adopted | — | 可按已采用范围使用 |\n| EMB-G-BC-CLOSED-LOOP-20261012 v1 | Adopted | — | 可按已采用范围使用 |\n| EMB-M-BC-CLOSED-LOOP-20261012 v3 | Adopted | — | 可按已采用范围使用 |\n| EMB-M-BC-COORDINATION-ENTRY-20261013 v2 | Adopted | — | 可按已采用范围使用 |\n| EMB-P-BC-CLOSED-LOOP-20261012 v2 | Adopted | — | 可按已采用范围使用 |\n| bc-navigation-review-v1 | submitted | — | 查看实际提交回执；采用另行核对：bc-navigation-review-v1 |\n| bc-navigation-review-v2 | submitted | — | 查看实际提交回执；采用另行核对：bc-navigation-review-v2 |\n| bc-navigation-v1 | submitted | — | 查看实际提交回执；采用另行核对：EMB-M-BC-COORDINATION-ENTRY-20261013 v1 |\n| bc-navigation-v2 | submitted | — | 查看实际提交回执；采用另行核对：EMB-M-BC-COORDINATION-ENTRY-20261013 v2 |\n| normal-prep-ag2-research-v1 | submitted | — | 查看实际提交回执；采用另行核对：EMB-BC-NORMAL-RESEARCH-20261013-01 v1 |\n",
+  "stderr": "",
+  "exit_code": 0
+}

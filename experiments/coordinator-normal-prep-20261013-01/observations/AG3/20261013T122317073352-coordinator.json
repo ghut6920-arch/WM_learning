@@ -1,0 +1,22 @@
+{
+  "recorded_at": "2026-10-13T12:23:17.073352+00:00",
+  "role": "AG3",
+  "kind": "coordinator",
+  "command": [
+    "E:\\anaconda\\python.exe",
+    "-B",
+    "-X",
+    "utf8",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "--workspace",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+    "--role",
+    "AG3",
+    "receipt",
+    "--receipt-id",
+    "normal-prep-ag3-design-receipt-v1"
+  ],
+  "stdout": "{\n  \"status\": \"ok\",\n  \"receipt\": {\n    \"authority_mode\": \"local_operator_attested\",\n    \"base_receipt_id\": null,\n    \"basis_signature\": \"abfbee6c0ea92c023d77eb5aa2b5343a94021720c082082b05f112081b941e7e\",\n    \"by\": \"AG3\",\n    \"directly_checked_scope\": [\n      \"BC-first-stage\"\n    ],\n    \"id\": \"normal-prep-ag3-design-receipt-v1\",\n    \"inherited_scope\": [],\n    \"intended_use\": \"teaching\",\n    \"kind\": \"ag3_review\",\n    \"outcome\": \"supported\",\n    \"rationale\": \"实际首次整体专业审查意见见 assessment/bc-normal-20261013-01/review-v1.md revision1，SHA256 9430635c709226a3ee940d3f110d4c192d11199822b382b1def7e0f329c956b8。对start锁定 EMB-BC-NORMAL-DESIGN-20261013-01 revision1（9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5）直接核查 teaching/BC-first-stage：R1–R4承接原用途，实际机制、证据、实验及条件化改进的连续主线充分，无必要返修。支持范围包含已核research v1、Goal/Plan v1、固定material-clarification-001-v1扰动补足及实际material v1；不把裸原设计的未定扰动当完整规格。只支持有限准备，不支持学习者能力/效果、真实项目诊断或机器人稳定；同模型职责执行，不称盲评。待AG0核控制、相容回执及预期指针正式采用；本次不授课。\",\n    \"scope\": [\n      \"BC-first-stage\"\n    ],\n    \"supersedes_receipt_ids\": [],\n    \"target_ref\": {\n      \"id\": \"EMB-BC-NORMAL-DESIGN-20261013-01\",\n      \"revision\": 1\n    },\n    \"target_sha256\": \"9382ea8bccdb395f1a45ae0c64cc6c868667036839eb42b728b116edf1bd4df5\"\n  },\n  \"currently_applicable_to_exact_target\": true,\n  \"input_issues\": [],\n  \"meaning\": \"exact_target_scope_receipt_not_newer_version_or_adoption\"\n}\n",
+  "stderr": "",
+  "exit_code": 0
+}

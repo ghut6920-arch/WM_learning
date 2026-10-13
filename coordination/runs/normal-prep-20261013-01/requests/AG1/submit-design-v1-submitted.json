@@ -1,0 +1,9 @@
+{
+  "operation_id": "normal-prep-submit-ag1-design-v1",
+  "task_id": "normal-prep-ag1-design-v1",
+  "path": "artifacts/bc-normal-20261013-01/design/design-v1.md",
+  "changed_scope": [
+    "BC-first-stage"
+  ],
+  "expected_state_revision": 31
+}

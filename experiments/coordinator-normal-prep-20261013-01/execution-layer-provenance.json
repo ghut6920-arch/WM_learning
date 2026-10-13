@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "path": "code/coordination/normal-prep-20261013-01/observe.py",
+      "sha256": "d493aca27c6518b631b0129d7966e2cc25a29b4582a70f809b1948331ea3975c",
+      "origin": "AI-generated execution-layer support",
+      "role": "AG0",
+      "teaching_artifact": false,
+      "formal_framework_modified": false
+    },
+    {
+      "path": "code/coordination/normal-prep-20261013-01/archive_index.py",
+      "sha256": "7c0a2f72b761cf6b2dfd186f306cbdcd45a2280e221d70a47efc1b99445f6b2f",
+      "origin": "AI-generated execution-layer support",
+      "role": "AG0",
+      "teaching_artifact": false,
+      "formal_framework_modified": false
+    }
+  ],
+  "archive_index_edits": [
+    "Created the record index utility.",
+    "Added normal teacher experiment directory to its copy scope.",
+    "Added observed file version history from read events.",
+    "Added execution-layer code files to final archive copy scope."
+  ],
+  "usage": "Only enumerate/copy already observed outputs; does not change professional decisions or coordinator rules."
+}

@@ -1,0 +1,5 @@
+# 初始控制原件定位补核
+
+最初Git状态输出未列control.md为修改项，但不能据此认定Git blob等于实际工作区字节。实际尝试发现Git blob及其换行/BOM变体均不匹配初始控制投影记录的SHA256。environment-control-before-exact.md的名字只对应当时取出的Git blob，**不能当初始工作区原件**；此前JSON中的“blob independently matches”推测不成立，matches_initial_control_gate实际为false。这些真实失败观测保留，不删除或倒写。
+
+随后从本次真实prepend操作保留的旧正文尾部提取字节，得SHA256 d7ba0aa3bf5c84b0a6888bbcccb48da66ddb7c3dbdc623daf31ff99b44692d87，与首次读取控制投影中的源指纹一致。已保存environment-control-before-verified.md；这是恢复后核对的确切旧字节，不虚称首次读取时已备份。核对见environment-control-original-tail-check.json。未据此改任何教学材料或规则。初始Git blob和实际工作区字节不同的Git索引原因未调查，保持unknown。

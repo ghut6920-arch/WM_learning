@@ -1,0 +1,9 @@
+{
+  "operation_id": "normal-prep-confirm-ag1-design-v1",
+  "ref": {"id": "EMB-BC-NORMAL-DESIGN-20261013-01", "revision": 1},
+  "receipt_id": "normal-prep-ag1-design-owner-v1",
+  "scope": ["BC-first-stage"],
+  "intended_use": "teaching",
+  "outcome": "supported",
+  "rationale": "AG1实际读取已采用学科研究固定快照及哈希核对附件，按现行SK01/03/05/06形成并读回目标、主线认知操作、师生分工、A/B/C具体题面、MethodConfig和PlanCommitment人工视图；关键操作与可靠学科锚点相连，目标及预算边界保留。确认范围为本次设计内容；AG2仍需制作并核验学习者输入、备用支持及完整教师参考，AG3仍需从原用途审查成品。当前不声明材料就绪、正式采用、教学发生或学习者能力获支持。"
+}

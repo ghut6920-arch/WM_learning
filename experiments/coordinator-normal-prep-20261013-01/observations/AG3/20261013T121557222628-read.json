@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-13T12:15:57.222628+00:00",
+  "role": "AG3",
+  "kind": "read",
+  "path": "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\snapshots\\AG3\\material-review-v1\\material-use-v1.md",
+  "sha256": "4e0ba1f114c1fee6d238c65c83c950343ff10e0762832475333b08acbec72457",
+  "bytes": 13406,
+  "byte_copy": "experiments\\coordinator-normal-prep-20261013-01\\read-bytes\\4e0ba1f114c1fee6d238c65c83c950343ff10e0762832475333b08acbec72457"
+}

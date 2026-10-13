@@ -1,0 +1,9 @@
+{
+  "01_files": "AG0派发前形成的任务文本草稿；实际spawn消息在02-actual文件，二者不同，不冒称已发送草稿",
+  "agents": [
+    {"role":"AG2","task_name":"/root/ag2_materials","fork_turns":"none","model_override":null,"actual_prompt":"02-actual-ag2-dispatch.txt"},
+    {"role":"AG1","task_name":"/root/ag1_design","fork_turns":"none","model_override":null,"actual_prompt":"02-actual-ag1-dispatch.txt"},
+    {"role":"AG3","task_name":"/root/ag3_assessment","fork_turns":"none","model_override":null,"actual_prompt":"02-actual-ag3-dispatch.txt"}
+  ],
+  "host_model_version": "宿主具体快照标识不可获得；未设置不同模型覆盖，不能据角色推断不同模型"
+}

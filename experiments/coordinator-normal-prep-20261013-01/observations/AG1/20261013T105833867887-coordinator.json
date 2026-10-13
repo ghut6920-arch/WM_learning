@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-13T10:58:33.867887+00:00",
+  "role": "AG1",
+  "kind": "coordinator",
+  "command": [
+    "E:\\anaconda\\python.exe",
+    "-B",
+    "-X",
+    "utf8",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\..\\..\\personal-learning-suite\\scripts\\coordinate_preparation.py",
+    "--workspace",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence",
+    "--role",
+    "AG1",
+    "execute",
+    "--action",
+    "start",
+    "--request-file",
+    "E:\\文献资料\\学习系统架构设计\\learning\\embodied-intelligence\\coordination\\runs\\normal-prep-20261013-01\\requests\\AG1\\start-design-v1-submitted.json"
+  ],
+  "stdout": "{\n  \"status\": \"committed\",\n  \"state_revision\": 30,\n  \"operation_id\": \"normal-prep-start-ag1-design-v1\",\n  \"task_id\": \"normal-prep-ag1-design-v1\",\n  \"snapshot\": [\n    {\n      \"id\": \"EMB-BC-NORMAL-RESEARCH-20261013-01\",\n      \"revision\": 1,\n      \"sha256\": \"3e22127185fc543df797fc22a32c52014cf64bd895cddcf2085e2861f689aefe\",\n      \"scope\": [\n        \"BC-first-stage\"\n      ],\n      \"intended_use\": \"teaching\",\n      \"adoption_required\": true\n    }\n  ],\n  \"phase\": \"running\",\n  \"provisional_inputs\": []\n}\n",
+  "stderr": "",
+  "exit_code": 0
+}

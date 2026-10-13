@@ -1,0 +1,7 @@
+{
+  "chunk_id": "28fa43",
+  "wall_time_seconds": 3.3804790000000002,
+  "exit_code": 0,
+  "original_token_count": 97,
+  "output": "E:/文献资料/学习系统架构设计/learning/embodied-intelligence\n4487e2b978849f62c4b45c2faca7ac0a9761f971\n M AGENTS.md\n M FRAMEWORK.md\n M MODEL_ENTRY.md\n M framework-manifest.json\n?? .coordinator/\n?? COORDINATION.md\n?? artifacts/coordinator-integration/\n?? coordination/\n?? experiments/coordinator-replay-20261013-bc-loop-01/\n?? experiments/execution-trace-20261013-bc-loop-01/\n"
+}
